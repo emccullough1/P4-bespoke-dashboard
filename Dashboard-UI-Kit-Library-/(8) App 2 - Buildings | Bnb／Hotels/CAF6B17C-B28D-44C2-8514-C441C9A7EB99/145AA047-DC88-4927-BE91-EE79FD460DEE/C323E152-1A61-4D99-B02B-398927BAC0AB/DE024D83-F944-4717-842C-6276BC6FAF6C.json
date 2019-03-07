@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE024D83-F944-4717-842C-6276BC6FAF6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B1DDD82-6C60-45BB-B6B5-B20E199999C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "240E670E-B1C8-48F7-992A-39230B1571E2",
+    "height": 70,
+    "width": 255,
+    "x": 285,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "City",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17DF33E6-2AFC-4698-A8A5-29D246AB8D6E",
+      "overrideName": "19CABB31-CF5C-476C-B729-CD4AE5FF3466_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d56c6ca78b17f0924ab204c18f76c2407dfa7d54.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C30BB9D6-31CF-4AF8-9900-10E0573A5EE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A0C3880-61FB-49D3-9936-676D84E5E7FB",
+  "verticalSpacing": 0
+}

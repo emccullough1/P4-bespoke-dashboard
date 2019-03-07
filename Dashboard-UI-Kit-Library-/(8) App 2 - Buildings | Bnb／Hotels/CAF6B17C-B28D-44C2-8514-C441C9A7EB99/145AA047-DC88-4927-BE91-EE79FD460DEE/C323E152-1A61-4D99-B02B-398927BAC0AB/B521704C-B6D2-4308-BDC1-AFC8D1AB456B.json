@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B521704C-B6D2-4308-BDC1-AFC8D1AB456B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 255,
+    "x": 570,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "City",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FB8E2EE-9BAE-4F17-9989-8E2F9897C4E1",
+      "overrideName": "19CABB31-CF5C-476C-B729-CD4AE5FF3466_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e4aa28e8199f6532c57d45d3d70d40d63c5d5cd7.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B4F08D8-759F-438E-B2E4-37655247D3B0",
+      "overrideName": "F2A5ECE8-11FD-4D0E-9B5E-AD07CD146552_stringValue",
+      "value": "Bali"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61A539EC-1436-41E9-8A51-7F01E30BD501",
+      "overrideName": "3EE24A28-11D4-49CF-9D6F-D1FBC774692D_stringValue",
+      "value": "32 Buildings"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A0C3880-61FB-49D3-9936-676D84E5E7FB",
+  "verticalSpacing": 0
+}

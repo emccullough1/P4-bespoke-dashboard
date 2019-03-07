@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFE902CB-971D-48CE-A497-535DF77FDE96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F592AEBE-DC8F-4691-8E18-0D32910465EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "991F35DC-0C72-426E-8859-EE1380030467",
+    "height": 134,
+    "width": 65,
+    "x": 380,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "420C8414-3ED6-4221-B262-E1B90AD72EDE"
+    },
+    {
+      "class": "text",
+      "id": "7EBFEABA-A7AC-47CA-B3A8-9CF5945F0793"
+    },
+    {
+      "class": "text",
+      "id": "47578708-045B-46D0-8696-B25164299794"
+    }
+  ],
+  "name": "Small Building",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABA6ED02-07C2-4309-BC01-5D78D49E4F79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

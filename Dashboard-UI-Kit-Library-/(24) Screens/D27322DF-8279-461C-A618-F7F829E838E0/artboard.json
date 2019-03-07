@@ -1,0 +1,142 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C00AB237-E445-40B6-8243-ADC959354806",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D27322DF-8279-461C-A618-F7F829E838E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9D1DD77-90D8-4455-A5D3-59368E1D1502",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "689D98A9-324C-47AD-9454-75FF5A478C92",
+    "height": 1160,
+    "width": 1440,
+    "x": 8378,
+    "y": -512
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "982C40DD-E166-4E52-8D85-FCC277AAB71E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "DCF08551-B56B-4590-AA24-649BA3CAA174"
+    },
+    {
+      "class": "rectangle",
+      "id": "004E86A7-DD5E-4043-A54B-8039A1386459"
+    },
+    {
+      "class": "group",
+      "id": "3681790F-4D4C-4611-A685-5A4DAF141206"
+    },
+    {
+      "class": "group",
+      "id": "A3AF8660-D3EF-4951-BDAB-CA14A9F14E9B"
+    },
+    {
+      "class": "group",
+      "id": "534971F0-E24B-4090-8543-57F797FCCE84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C04E922C-04BD-4791-968C-6F6F9C171CFD"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Home - Payment",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "545CF7D9-7834-4B62-9FFC-FE023E6DCB4D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8D2B583A-022F-48F3-AFE3-0FF063468CAE",
+    "guides": [
+    ]
+  }
+}

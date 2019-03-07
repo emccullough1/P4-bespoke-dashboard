@@ -1,0 +1,93 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6EFF44B3-02AE-4CAA-A4CC-D7AE7FAC78CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C313E08-4E9F-4E30-A8EF-72D3C4FC92D9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5032F953-2777-4CF0-97B7-E6445B4808C2",
+    "height": 18,
+    "width": 20.00130120874718,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AFF876D7-6CAA-4CD6-AFC3-3748F461237E"
+    },
+    {
+      "class": "shapePath",
+      "id": "A7B0A8D9-ABA0-42B6-8611-CCE7CC7B0472"
+    },
+    {
+      "class": "shapePath",
+      "id": "1BB3F440-208F-43D2-BE1C-766C4508C30A"
+    },
+    {
+      "class": "shapePath",
+      "id": "8EF1ECDE-3E68-4597-9820-0AB2D80709AD"
+    }
+  ],
+  "name": "Icon/Social 20px/amazon [#160]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8822465-5869-4935-B31A-0231231AEFA3",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

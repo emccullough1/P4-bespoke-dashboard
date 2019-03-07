@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "36D30E11-6B7D-4150-9537-0D2808C7293D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 93,
+    "width": 380,
+    "x": 0,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "984363EE-0069-41DE-BC70-10DFE5F26EA0"
+    },
+    {
+      "class": "text",
+      "id": "8512F9A3-644B-4214-9DDB-71D5EED9AF4B"
+    },
+    {
+      "class": "text",
+      "id": "07BBA97E-8212-411C-89DE-190D2CB12992"
+    },
+    {
+      "class": "text",
+      "id": "8F4B7F0E-528F-4EB3-95B2-C1684D51A9CF"
+    },
+    {
+      "class": "group",
+      "id": "49543579-8E84-4DA9-937A-5E350A1162C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C674D1F-A277-4C96-9ED5-A681485EE8CF"
+    }
+  ],
+  "name": "Widget/Buildings/Building List Item",
+  "nameIsFixed": true,
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

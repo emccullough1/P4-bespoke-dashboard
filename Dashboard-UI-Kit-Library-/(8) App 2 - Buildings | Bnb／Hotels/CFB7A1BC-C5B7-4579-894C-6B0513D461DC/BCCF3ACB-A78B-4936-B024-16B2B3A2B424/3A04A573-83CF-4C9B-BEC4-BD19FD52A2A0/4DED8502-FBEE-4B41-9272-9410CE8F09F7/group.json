@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DED8502-FBEE-4B41-9272-9410CE8F09F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "596AEAD4-FBE1-4D50-B3A1-C5CAFE5D76F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DDA3CD2-A0C3-4303-A5D7-7DA8DC47BA16",
+    "height": 230,
+    "width": 498,
+    "x": 232,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2D78AD50-E0ED-4AE6-AC62-250C9AB65E52"
+    },
+    {
+      "class": "group",
+      "id": "6CA71D57-2049-4E9E-9185-705094ABA8BC"
+    },
+    {
+      "class": "text",
+      "id": "A8CDC9DB-A237-4237-8F7B-8391ED66B645"
+    }
+  ],
+  "name": "Messages",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74D0B967-F430-4DA1-8F4E-CE4F6B30ACAB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

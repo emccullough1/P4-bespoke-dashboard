@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "796075D5-12FD-473A-B4FB-30139C96A94C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2A090E7-E60D-4813-AEFF-FE5778DF2E74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12E1C19F-0A5F-44C5-95DF-C28D66E96CEC",
+    "height": 70,
+    "width": 570,
+    "x": 0,
+    "y": 692
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C10D0243-F69A-431A-94A9-D36C13BD649D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/78b330ab640ac266ef1657ece5bd244572a3bd03.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71A4F298-5C8C-4635-8982-5A8F9620E018/2C68B8EF-9603-41C0-949B-97FE58D6531F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/78b330ab640ac266ef1657ece5bd244572a3bd03.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF0F9FB3-E02C-431E-A4A7-D323B3B565D4_stringValue",
+      "value": "Carl Nelson"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "754DEAC9-F67A-4947-941A-CE5A9FC63237_stringValue",
+      "value": "Allianz"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC21CDDB-03C0-4D25-A3EB-9E0B079C247E",
+      "overrideName": "71A4F298-5C8C-4635-8982-5A8F9620E018/808D8340-C573-49A3-B077-1F900ACD4B4D_symbolID",
+      "value": "BBEC44AF-878C-42FF-B13D-AD4EDFFEE3A4"
+    }
+  ],
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7B536BA-3ABE-44B5-8B49-8DFC5A8A36FC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "956F6C84-E09F-45A6-8FD2-7C018F1027BE",
+  "verticalSpacing": 0
+}

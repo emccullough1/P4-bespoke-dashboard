@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "974A84B5-0336-4742-8963-280D206A454C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23DDB8E4-E7BD-48D2-906B-D9B639A3F06A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6C3567E-057A-48DF-BE60-6E5C97A1E678",
+    "height": 70,
+    "width": 570,
+    "x": 0,
+    "y": 184
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C10D0243-F69A-431A-94A9-D36C13BD649D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/314e063d5799e2da6397d057e31b69e2a721f91a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71A4F298-5C8C-4635-8982-5A8F9620E018/2C68B8EF-9603-41C0-949B-97FE58D6531F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/816e0ea240ebc09644eb51f6cea43cb645954b14.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3A293CAD-BC88-4F7B-A909-879C431A44B6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF0F9FB3-E02C-431E-A4A7-D323B3B565D4_stringValue",
+      "value": "Ann Waters"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "754DEAC9-F67A-4947-941A-CE5A9FC63237_stringValue",
+      "value": "Google"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "911C16B7-157B-449C-A842-4E630812686F",
+      "overrideName": "71A4F298-5C8C-4635-8982-5A8F9620E018/808D8340-C573-49A3-B077-1F900ACD4B4D_symbolID",
+      "value": "83AFCAF0-EDEF-43C1-8ED3-39B763D6BFD7"
+    }
+  ],
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1983CA1B-B671-4FB0-A87F-B130519591C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "956F6C84-E09F-45A6-8FD2-7C018F1027BE",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "365663CD-715E-4D4F-9B3E-21FEC10C1B58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFED2D94-0AD6-43DB-85BE-24220C1532CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB0F3DAD-A1DE-4063-BBD4-01636D9D787B",
+    "height": 330,
+    "width": 1015,
+    "x": 290,
+    "y": 156
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F528C9F8-4486-480C-B030-B0081129885C"
+    },
+    {
+      "class": "group",
+      "id": "2BF2267F-52B4-4957-BB5F-B4FF04352BB2"
+    }
+  ],
+  "name": "Slider",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6726D7A-4053-4ECF-BA20-9F34F0E1B342",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

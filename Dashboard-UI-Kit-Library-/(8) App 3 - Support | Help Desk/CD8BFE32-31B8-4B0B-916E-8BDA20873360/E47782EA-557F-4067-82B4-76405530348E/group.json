@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E47782EA-557F-4067-82B4-76405530348E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BACD8381-2FFA-48A7-B4A4-ED98E9288D7E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D9981CB-DCDB-460C-B570-647DC3120EFB",
+    "height": 370,
+    "width": 255,
+    "x": 735,
+    "y": 731
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AB22CDFC-A4E7-4914-AC64-54FC3EE64DE0"
+    },
+    {
+      "class": "group",
+      "id": "AC4B2EDF-6E1E-4AA2-B641-ED513D187142"
+    },
+    {
+      "class": "rectangle",
+      "id": "1B9E650E-7E91-44EF-A4E9-5C3BA0CF905B"
+    },
+    {
+      "class": "text",
+      "id": "6B6CDCF7-CC23-4E4A-9EF5-E9EB0CF5B426"
+    },
+    {
+      "class": "text",
+      "id": "0E084E4C-5B82-4C8B-AF4A-9B3F2FBD625D"
+    },
+    {
+      "class": "group",
+      "id": "15064A43-F553-4989-8AB7-D25058770B1A"
+    }
+  ],
+  "name": "Support Video Widget",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E022A626-FBD9-4A9A-97B3-E0E33BF60C66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

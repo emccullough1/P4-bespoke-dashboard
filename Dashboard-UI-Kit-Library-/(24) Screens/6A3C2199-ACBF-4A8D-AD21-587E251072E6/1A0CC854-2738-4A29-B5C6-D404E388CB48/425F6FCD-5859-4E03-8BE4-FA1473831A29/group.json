@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "425F6FCD-5859-4E03-8BE4-FA1473831A29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 270,
+    "x": 0,
+    "y": 1075
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DA626A36-250D-4FB5-A33B-4962E678D0E3"
+    },
+    {
+      "class": "text",
+      "id": "1061DD1B-8B9B-41F7-A245-E3C6495E4900"
+    },
+    {
+      "class": "text",
+      "id": "06159628-1C1C-40F1-A60F-E9AA48D95740"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6548BA37-4AE1-40A3-A90D-D95AF0C6F605"
+    }
+  ],
+  "name": "Balance",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "44BC707D-F4AD-4C38-8BFD-981D68AE71BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F21F39BC-1221-4FE5-99D9-740C9BA7F826",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A23F1A2-64F2-4C0D-8526-04ED37A03E74",
+    "height": 170,
+    "width": 540,
+    "x": 955,
+    "y": 116
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "577D6E90-A5B7-427F-9D46-54E979E4EFE3"
+    },
+    {
+      "class": "group",
+      "id": "9D55249A-DE93-4932-844E-0D04DA3E8361"
+    }
+  ],
+  "name": "Create Post",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3833F758-55E0-41B1-9A2E-24B2826C80FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

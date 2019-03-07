@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B30A19A-ADBA-4794-AB5A-DBB25B3CCC8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57E79502-66AA-4FCB-94D8-4247AA90832C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DEF4B91F-978D-4AE1-9B0C-6F018F80C5A0",
+    "height": 260,
+    "width": 350,
+    "x": 1060,
+    "y": 804
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A2FA5BAF-BEB6-46F1-9774-25CE1B16EBEB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B373F640-3C05-4E3E-AF93-45AAC1177CA8"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E2E1C8F-441A-49DA-868D-8EA887F4B3B7"
+    },
+    {
+      "class": "group",
+      "id": "5010601D-6802-4649-A10B-86DE4EF64B43"
+    },
+    {
+      "class": "text",
+      "id": "1E77AF1B-8F5B-4F19-A096-A80C1B761273"
+    },
+    {
+      "class": "text",
+      "id": "BF93F558-463A-42B9-9D89-6B60C2F9ABAF"
+    },
+    {
+      "class": "group",
+      "id": "8ECC2F7B-C869-4A7E-BE8F-40F557358009"
+    }
+  ],
+  "name": "Popup (Tooltip)",
+  "nameIsFixed": true,
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.02,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

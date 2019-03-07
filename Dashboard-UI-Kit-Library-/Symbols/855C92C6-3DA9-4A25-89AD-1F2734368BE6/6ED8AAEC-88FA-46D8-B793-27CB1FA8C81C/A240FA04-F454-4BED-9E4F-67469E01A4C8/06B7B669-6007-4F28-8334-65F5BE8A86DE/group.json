@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "06B7B669-6007-4F28-8334-65F5BE8A86DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E78A255-4B38-48C0-9E99-9695E9E9AABC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1514071D-6681-4823-B821-FE6C8CCFA07F",
+    "height": 38,
+    "width": 38,
+    "x": 169,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B9EB607D-2E42-4E2E-BE58-8C05342B97B7"
+    },
+    {
+      "class": "text",
+      "id": "2F9D52B5-2AAB-4C98-A9F7-986C7311599C"
+    }
+  ],
+  "name": "Avatar",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C695DE7D-8DD1-41C2-BEE7-A3DF54097A2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

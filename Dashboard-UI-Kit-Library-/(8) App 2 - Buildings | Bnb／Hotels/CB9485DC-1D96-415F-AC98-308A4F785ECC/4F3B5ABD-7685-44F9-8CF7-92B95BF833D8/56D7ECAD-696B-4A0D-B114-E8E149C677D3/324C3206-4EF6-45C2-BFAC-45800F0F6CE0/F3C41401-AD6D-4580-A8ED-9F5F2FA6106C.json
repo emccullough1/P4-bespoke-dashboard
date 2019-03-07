@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3C41401-AD6D-4580-A8ED-9F5F2FA6106C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F3D48F9-8E2C-46A2-A407-C376C1802684",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "981B01C0-ECAE-4ED6-A956-6337DD646039",
+    "height": 392,
+    "width": 255,
+    "x": 0,
+    "y": 844
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Building",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B79AACB6-0FBA-4EBA-924C-D8874D41156F_stringValue",
+      "value": "9117 Brickyard Street \nDe Pere, WI 54115"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8050A315-35C7-446A-B83A-C62A22E7EB71_stringValue",
+      "value": "£230/sqm"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F051ABB2-A11D-428E-9491-9A6B3B1D962B_stringValue",
+      "value": "Space Needle"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C44A8B8-84B4-4A2F-8555-E4F55D3A8017_stringValue",
+      "value": "790 Users"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "36F04327-06B8-46C8-9F57-AC60D18386B1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c5abb47c61944187add89bfe39d21ab99441e195.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE888989-F281-4530-9576-BB1DA1C90BEF",
+      "overrideName": "2B46F1F7-5802-41D3-8E93-E420A3D0F69F_stringValue",
+      "value": "100 Offices"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42789F16-4F42-4E09-981A-A3A6A8DBBEB1",
+      "overrideName": "7423B2C0-17FD-4296-80DB-37A543A6343A_stringValue",
+      "value": "For Rent"
+    }
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1FC4D42-1CD5-4D06-9B3B-56E2ACF8EB63",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B1BC161F-8F16-4133-A260-74B33305417F",
+  "verticalSpacing": 0
+}

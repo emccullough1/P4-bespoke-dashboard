@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4BE2996-540A-47A8-A8FF-4E41656C1BAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DDA75D9-FBD9-439A-86AF-4209BC4D057C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4A35072-422E-4F67-9983-1FEAB9D73587",
+    "height": 112,
+    "width": 730,
+    "x": 0,
+    "y": 522
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8ABB8912-1D68-46BE-8077-F9CE2654F9E5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e3b9a99445aa35cc3901b7d5a79073d35fcfb937.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B1DF09F-BC6D-4D1F-AADB-FACA30B832B2_stringValue",
+      "value": "Ethel Ward"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8B3BEECC-A74C-4CD5-83AC-6D2E17876EFE_stringValue",
+      "value": "Sam Tucker"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "00F09604-438E-46C1-9342-B82C6DC6B6C0",
+      "overrideName": "AC744426-8170-4F18-90F4-8216E7C97D22_stringValue",
+      "value": "Visual Designer at Dribbble\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D13C956E-62D4-4950-BA0B-B7D79A5175E4",
+      "overrideName": "31148AC4-8CB1-4D05-A219-9544B100E45D_stringValue",
+      "value": "4 other mutual friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0CFBCDF-BD3E-4097-AA93-AB27B58F1A50",
+      "overrideName": "603EB226-29F5-4E5A-9D53-9447B9F44C91/4FAC7FE1-C5BC-4231-A2B8-11C3F7D8FE0F_symbolID",
+      "value": "6F399FFF-69A0-4834-AF70-408580DC8901"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "114C6924-20F1-48D3-86D3-B78D2FFFF568",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2D9C5143-8F0F-4AC8-8749-290B461DD61B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBF0C41A-7538-4C17-88C4-74C9DC5465C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F8725CD-D619-47D1-BE4D-466A6FCF88FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4626E68-82F3-4A60-B914-ED941C2851C2",
+    "height": 22,
+    "width": 118,
+    "x": 0,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B280CE64-C460-47D7-8BD1-12572015B090"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "289B031B-BCB9-485D-BC83-A1D58668D913"
+    }
+  ],
+  "name": "More Link",
+  "nameIsFixed": true,
+  "resizingConstraint": 25,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61D34E28-4C46-467A-9B97-4C14C30EA64A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

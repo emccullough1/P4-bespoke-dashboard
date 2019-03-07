@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D58670B-3EF6-4189-B905-5EAB5BA9F045",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 145,
+    "width": 380,
+    "x": 0,
+    "y": 83
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widget/Buildings/Building List Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0FC6AC6-D9E3-4982-B742-BF65ECA40CAE",
+      "overrideName": "71747601-6939-47F4-A92D-C70B6FC33052_stringValue",
+      "value": "Bauhaus Archive"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D547630C-0C21-4AF0-A702-8106D20A25B8",
+      "overrideName": "6C7843A7-543F-42C5-B044-56E23F3806A6_stringValue",
+      "value": "7246 Woodland Rd. \nWaukesha, WI 53186"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DBC58587-D9E5-4D22-A1B7-F84CE2D441DF",
+      "overrideName": "0C6F7F6F-8A2F-4002-8E4C-59BF164FB5FA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/45ff426a7220b38dc68e3ae65db11ca15ecb1924.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "622807D5-3EEC-45D8-96D5-EA69309BE9D2",
+      "overrideName": "7CFCEAC2-C2D9-455A-9D0A-D411D26F32DF_stringValue",
+      "value": "£75/sqm"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90303013-4141-4CB0-9ABE-BCFA492349A3",
+      "overrideName": "ECFC55C2-0F0B-47D7-85A2-70AD1E71B8C9_stringValue",
+      "value": "For Rent"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D52A3023-C682-469D-808E-70264928F97E",
+  "verticalSpacing": 0
+}

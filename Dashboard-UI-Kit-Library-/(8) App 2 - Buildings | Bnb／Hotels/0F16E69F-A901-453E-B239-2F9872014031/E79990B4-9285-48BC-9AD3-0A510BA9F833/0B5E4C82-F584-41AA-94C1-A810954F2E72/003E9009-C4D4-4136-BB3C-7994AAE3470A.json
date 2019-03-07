@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "003E9009-C4D4-4136-BB3C-7994AAE3470A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC82F7C1-DA0B-43E0-B7E5-1F5E9C2E2869",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F96ABB1-3BD2-4583-B1B8-49453472CDBA",
+    "height": 70,
+    "width": 570,
+    "x": 0,
+    "y": 114
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C10D0243-F69A-431A-94A9-D36C13BD649D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/dd8d8dd0e81b711183bcb94c21c2cc244799c375.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71A4F298-5C8C-4635-8982-5A8F9620E018/2C68B8EF-9603-41C0-949B-97FE58D6531F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/dd8d8dd0e81b711183bcb94c21c2cc244799c375.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF0F9FB3-E02C-431E-A4A7-D323B3B565D4_stringValue",
+      "value": "Angelina Newton"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "754DEAC9-F67A-4947-941A-CE5A9FC63237_stringValue",
+      "value": "Toyota"
+    }
+  ],
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCAE74E9-2601-474A-BA53-2EB1147A0DF4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "956F6C84-E09F-45A6-8FD2-7C018F1027BE",
+  "verticalSpacing": 0
+}

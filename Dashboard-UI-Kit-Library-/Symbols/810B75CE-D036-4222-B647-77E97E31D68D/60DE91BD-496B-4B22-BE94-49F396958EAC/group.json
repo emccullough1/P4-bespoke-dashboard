@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "60DE91BD-496B-4B22-BE94-49F396958EAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "799F5DFC-AAEB-46CF-9803-9B18A3963409",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05AE8C72-CF33-4547-A023-9182F1546DBB",
+    "height": 43,
+    "width": 195,
+    "x": 0,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5803BF8D-1C06-42A7-94FC-B6A8E0824813"
+    },
+    {
+      "class": "shapePath",
+      "id": "59A12C9F-FB99-4AD9-8D58-3ED6BC77D0E6"
+    }
+  ],
+  "name": "Graph",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4302CBD1-A5AA-408C-A978-198AD9B4637C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.069767441860465,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "656AD280-A40A-47E5-90BD-0AC06CDD03A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

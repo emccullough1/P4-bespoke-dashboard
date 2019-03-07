@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "815EAAB8-DC38-4335-9F1C-6192E50A9D58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 164,
+    "width": 530,
+    "x": 0,
+    "y": 260
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "38C5F347-34F8-40FC-81D8-4CE1F55CCDD0"
+    },
+    {
+      "class": "group",
+      "id": "8AFBCD4F-31A3-49BE-9B07-F79F2D17BC7D"
+    },
+    {
+      "class": "text",
+      "id": "0D380568-4AA7-4135-9EB0-4301DAB78D42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB48DE4A-53E7-4D2E-9CDB-AE88AC7A4608"
+    }
+  ],
+  "name": "Messages",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

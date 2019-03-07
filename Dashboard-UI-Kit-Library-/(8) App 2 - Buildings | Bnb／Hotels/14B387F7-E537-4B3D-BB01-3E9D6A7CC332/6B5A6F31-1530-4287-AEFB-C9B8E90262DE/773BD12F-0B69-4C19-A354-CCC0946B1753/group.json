@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "773BD12F-0B69-4C19-A354-CCC0946B1753",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3CF38DD9-54DC-4E4A-974B-A6832D871833",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE5A97D5-3346-4745-95EE-D8BD2C0D79F3",
+    "height": 59,
+    "width": 730,
+    "x": 0,
+    "y": 430
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "92C8B5E8-D439-4583-9540-01197C1AA2AC"
+    },
+    {
+      "class": "rectangle",
+      "id": "8D489E9B-C9A1-41FC-AE8B-9232CB5E3772"
+    }
+  ],
+  "name": "Bottom Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 51,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "232D6E20-158F-4FC5-A681-C1D75BA23005",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

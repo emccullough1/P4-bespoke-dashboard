@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "63427AC8-0BAE-48DE-9FFD-D56AA4942AF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB1DB3F9-B689-4664-B706-08DA20BD15A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79F5D058-7DAE-42D7-9301-5371AB3557DB",
+    "height": 145,
+    "width": 380,
+    "x": 0,
+    "y": 372
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widget/Buildings/Building List Item",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0571F115-8C91-4EA7-81C7-019316E32E56",
+      "overrideName": "0C6F7F6F-8A2F-4002-8E4C-59BF164FB5FA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/40320227d5ffb358b4af0dd3c6232c2eccfdb929.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF626417-01EF-4BD0-8DE5-AA3402F7D713",
+      "overrideName": "6C7843A7-543F-42C5-B044-56E23F3806A6_stringValue",
+      "value": "123 Johnson Court \nRoy, UT 84067"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFA9A5CB-7ECE-4566-A945-4FE608451763",
+      "overrideName": "71747601-6939-47F4-A92D-C70B6FC33052_stringValue",
+      "value": "Dome of the Rock"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "459743B8-A7E2-4A68-9473-A5061997AE76",
+      "overrideName": "7CFCEAC2-C2D9-455A-9D0A-D411D26F32DF_stringValue",
+      "value": "£96/sqm"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1938EE59-D800-431E-8CC7-07B1D3CB45A5",
+      "overrideName": "ECFC55C2-0F0B-47D7-85A2-70AD1E71B8C9_stringValue",
+      "value": "For Rent"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D2CC740-2830-46A8-A16B-82EA3796F632",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D52A3023-C682-469D-808E-70264928F97E",
+  "verticalSpacing": 0
+}

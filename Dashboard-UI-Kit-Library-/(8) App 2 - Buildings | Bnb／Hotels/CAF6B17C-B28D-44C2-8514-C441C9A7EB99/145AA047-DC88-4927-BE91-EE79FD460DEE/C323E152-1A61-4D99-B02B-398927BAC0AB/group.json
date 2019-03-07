@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C323E152-1A61-4D99-B02B-398927BAC0AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 1110,
+    "x": 0,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DE024D83-F944-4717-842C-6276BC6FAF6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34501F49-2251-4579-A2CD-B237DD8BF30F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1F8D297-3220-49DC-A86F-D752CE945A7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B521704C-B6D2-4308-BDC1-AFC8D1AB456B"
+    }
+  ],
+  "name": "Cities",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

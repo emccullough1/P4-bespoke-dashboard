@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C5E2919-C50C-40DF-A293-60538C2E0F78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD635762-934F-44BF-B586-6BC92C2EE128",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E690DF0F-9C39-4A50-A7F3-433D52458937",
+    "height": 60,
+    "width": 1110,
+    "x": 0,
+    "y": 178
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2C1C8393-00A5-4681-9241-C7BCF650E43F"
+    },
+    {
+      "class": "group",
+      "id": "19E8F6CA-7359-41FF-9796-228D5BF24709"
+    },
+    {
+      "class": "group",
+      "id": "BA9E1F08-A101-4757-A069-AE2C77BDD0E6"
+    }
+  ],
+  "name": "Task Item",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34571223-93DE-4E68-ABF4-BEF48431486D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

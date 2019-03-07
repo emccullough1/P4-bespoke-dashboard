@@ -1,0 +1,99 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "04318995-028D-45F0-9515-E7E187DCFD11",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5720795-857C-487C-9717-3B76F3C52172",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C71A5BE2-994D-4745-ABFA-64BFCA084E3C",
+    "height": 1.200024461949315,
+    "width": 1.199989527822947,
+    "x": 17.57210120887706,
+    "y": 21.88124603918385
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.0023709277575054699, 0.030999999999998806}",
+      "curveMode": 4,
+      "curveTo": "{0.00862907224249021, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.00862907224249021, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.00862907224249021, 0}",
+      "curveMode": 4,
+      "curveTo": "{-0.0033709277575102448, 0.035999999999997812}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.00862907224249021, 0}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D21B592B-AD7C-4811-9624-33021A9BD346",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.99999928474426,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9F7A4AF7-F99F-467C-94B5-13352DBB5860",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

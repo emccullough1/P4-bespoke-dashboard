@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "906830DE-36EC-4B3F-8402-BF670CF43353",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25706736-A103-4D68-92A4-9BC5DEDC92C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40F33B50-2DEC-436D-ACB4-384178782DC9",
+    "height": 66,
+    "width": 480,
+    "x": 30,
+    "y": 352
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Input/38px/with Label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F34076BF-FFF5-4AFF-8CF0-178CA5C44603",
+      "overrideName": "11A47DB5-91F8-443E-A196-D2FF418EE592_stringValue",
+      "value": "Street Address"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE913B34-D42C-4302-9330-FB88CB3464E6",
+      "overrideName": "04153BDF-42E2-49FA-8AC5-315A936B3D95_symbolID",
+      "value": "B8EB97B9-53E0-4709-AEEE-B839F6058671"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65180D79-A802-42C6-9F4D-5EFED9552707",
+      "overrideName": "04153BDF-42E2-49FA-8AC5-315A936B3D95/7C3A020A-FF98-4D0D-8C70-25A7AA155C6C_stringValue",
+      "value": "e.g. Dunnam Street 34"
+    }
+  ],
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B017535D-E7EA-4F6F-A85D-68272C3C7B77",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "83607938-7421-4852-B7D3-863392591968",
+  "verticalSpacing": 0
+}

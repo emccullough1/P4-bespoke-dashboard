@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E2A58A1-C721-4FBF-955A-0F9EEA7753E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BB64A8A-E695-4D0B-9FE7-0A33B7DAA0DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49D33212-C0E8-4D95-B018-6B773ABECF00",
+    "height": 70,
+    "width": 148,
+    "x": 194,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "28E668B1-83C4-4589-AD5B-65A5D114AA9A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6663B18B-2AE5-4550-8287-2694E0EA8D70"
+    },
+    {
+      "class": "rectangle",
+      "id": "C564BA15-E9C3-4B91-A600-0D3D4DBA12FF"
+    }
+  ],
+  "name": "User Section",
+  "nameIsFixed": true,
+  "resizingConstraint": 62,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCAE4CF3-6DBA-4F8A-8BD0-8DF92CFF76DD",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

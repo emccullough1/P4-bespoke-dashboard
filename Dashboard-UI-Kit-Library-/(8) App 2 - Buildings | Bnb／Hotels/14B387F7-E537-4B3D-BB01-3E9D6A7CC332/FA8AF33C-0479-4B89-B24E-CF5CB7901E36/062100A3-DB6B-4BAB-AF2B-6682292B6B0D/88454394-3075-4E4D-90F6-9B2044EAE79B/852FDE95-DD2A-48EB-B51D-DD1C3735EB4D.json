@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "852FDE95-DD2A-48EB-B51D-DD1C3735EB4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2435C2BB-15A8-4E57-A15F-EC92E22A59F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E33D3EF9-9F64-493B-BE53-B440D2CA19E2",
+    "height": 66,
+    "width": 330,
+    "x": 0,
+    "y": 164
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Select",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1DD7B35-03A1-4BA8-B61C-F32EE284A584",
+      "overrideName": "D46BCD86-64EB-44C7-87B0-C7D573FE9E00_stringValue",
+      "value": "City"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "938E4431-FF04-4796-8A7B-F40F4EAD77E9",
+      "overrideName": "762EDFA1-A8F3-4EFA-92F3-90D6973764F0/B75AD7B3-FDBD-423A-A874-938F27D98724_stringValue",
+      "value": "Caracas"
+    }
+  ],
+  "resizingConstraint": 30,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Light",
+            "size": 48
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "symbolID": "6268A4B0-7CA0-4A0C-BA2E-943694BF8161",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B766DD30-67A5-4DD4-940F-4DF298407C91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64D8A93D-A378-41DF-BD76-880864B722E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0886C04A-E20F-49EA-8F65-9C31D3C9CC1B",
+    "height": 112,
+    "width": 730,
+    "x": 0,
+    "y": 186
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8ABB8912-1D68-46BE-8077-F9CE2654F9E5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7422a9ef28678421f2338228937fc5cf106c66c6.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8B3BEECC-A74C-4CD5-83AC-6D2E17876EFE_stringValue",
+      "value": "Marguerite Jenkins"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11F31EA1-C9DA-4FD8-A9BE-580D3C0C5204",
+      "overrideName": "AC744426-8170-4F18-90F4-8216E7C97D22_stringValue",
+      "value": "Software engineer at Opera.com\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A79B066C-553C-453C-88B5-EBD1959A8775",
+      "overrideName": "31148AC4-8CB1-4D05-A219-9544B100E45D_stringValue",
+      "value": "2 other mutual friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "69C60519-C543-46A5-BC3B-F47425237D34",
+      "overrideName": "603EB226-29F5-4E5A-9D53-9447B9F44C91/4FAC7FE1-C5BC-4231-A2B8-11C3F7D8FE0F_symbolID",
+      "value": "7D4261E5-DC02-4DD2-9073-CA4839E5EA2B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6EA914F-EB77-4CD3-96EF-6228D406646F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2D9C5143-8F0F-4AC8-8749-290B461DD61B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54159BBE-E53C-43D3-AC8E-60B2732A292D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23721A39-78D7-4A2B-8141-4FB3F8AD947D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24245BC5-9820-469B-81DA-AB41B09787F7",
+    "height": 20.00000000000034,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "64164801-7F82-4D60-9D40-00C5FEDB24B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CF7B633-C902-4D96-B394-8BAC3F6E03AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A235816F-0CBD-420F-8852-04553E80E3DC"
+    }
+  ],
+  "name": "Icon/20px/bars [Extra]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25CF576D-AE2F-4D86-A841-6B80D12501DA",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

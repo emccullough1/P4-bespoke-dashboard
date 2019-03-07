@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9142BC15-2104-4224-BF03-7D57C14571E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F0DA8E1-EAE3-4FDF-8B64-6514AFCDE355",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B7718D6-F98A-4EE6-8C72-90B44AD12938",
+    "height": 112,
+    "width": 730,
+    "x": 0,
+    "y": 970
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8ABB8912-1D68-46BE-8077-F9CE2654F9E5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0bd3fa6f3d026b198fea705354113fa2daba72a1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B1DF09F-BC6D-4D1F-AADB-FACA30B832B2_stringValue",
+      "value": "Charlie Rice"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8B3BEECC-A74C-4CD5-83AC-6D2E17876EFE_stringValue",
+      "value": "Randy Hudson"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "30B05716-916C-462C-8550-77AD4478C673",
+      "overrideName": "AC744426-8170-4F18-90F4-8216E7C97D22_stringValue",
+      "value": "Senior Partner at VC Ced"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF85526C-36AB-40ED-824E-F0D827ACEA35",
+      "overrideName": "31148AC4-8CB1-4D05-A219-9544B100E45D_stringValue",
+      "value": "2 other mutual friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49564D2B-9656-46BE-A783-E8E441CFD1CC",
+      "overrideName": "21BE1EAE-BCF0-4686-9DDC-CA1D7C3016CB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E6E6F14-6B87-4A4F-90E4-AC2C030B3EA6",
+      "overrideName": "603EB226-29F5-4E5A-9D53-9447B9F44C91/4FAC7FE1-C5BC-4231-A2B8-11C3F7D8FE0F_symbolID",
+      "value": "26F9AB5D-5493-4E12-9041-6C90E64495D5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C0F0E04C-2B9E-4FF2-B2A5-23BA4E2AAE69",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2D9C5143-8F0F-4AC8-8749-290B461DD61B",
+  "verticalSpacing": 0
+}

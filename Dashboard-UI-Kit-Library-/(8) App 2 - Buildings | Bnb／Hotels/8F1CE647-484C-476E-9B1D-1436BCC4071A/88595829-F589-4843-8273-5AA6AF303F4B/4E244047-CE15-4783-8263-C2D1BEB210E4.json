@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E244047-CE15-4783-8263-C2D1BEB210E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A734A35-CE64-4F0A-8E36-A0668FD645A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "418076A3-3FC5-4231-9806-4DAB4F93CC0B",
+    "height": 145,
+    "width": 380,
+    "x": 0,
+    "y": 517
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widget/Buildings/Building List Item",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D538F4E-FC8F-42E7-B81C-18403E158952",
+      "overrideName": "0C6F7F6F-8A2F-4002-8E4C-59BF164FB5FA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8515e9575854755d34b88e0799ce1c175b8aed8c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5793F92F-62D8-441E-AE72-E6BE6FD39CE3",
+      "overrideName": "6C7843A7-543F-42C5-B044-56E23F3806A6_stringValue",
+      "value": "36 Squaw Creek Dr. \nHarleysville, PA 19438"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DAC1850E-0AA7-4DD0-A448-976A13A069E6",
+      "overrideName": "71747601-6939-47F4-A92D-C70B6FC33052_stringValue",
+      "value": "Lloyd's Building"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D969BE0-BA7C-463B-9824-7348DDD4A518",
+      "overrideName": "7CFCEAC2-C2D9-455A-9D0A-D411D26F32DF_stringValue",
+      "value": "£120/sqm"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E547AF96-E081-4AEC-B135-C8D860BDE5AD",
+      "overrideName": "ECFC55C2-0F0B-47D7-85A2-70AD1E71B8C9_stringValue",
+      "value": "For Rent"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66EEE028-22D5-47C9-8F87-A37E6932AAB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D52A3023-C682-469D-808E-70264928F97E",
+  "verticalSpacing": 0
+}

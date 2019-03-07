@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9E890AC-9934-4A30-9F8C-9FD406A77739",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6EC366F-9B5F-418F-A2E3-69FF32362EB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E9BDD14-1E5C-4E25-B5A6-F3D502F203EA",
+    "height": 112,
+    "width": 730,
+    "x": 0,
+    "y": 298
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8ABB8912-1D68-46BE-8077-F9CE2654F9E5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/61f4467baafd1818e2b02a55a3c870b248437b42.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B1DF09F-BC6D-4D1F-AADB-FACA30B832B2_stringValue",
+      "value": "Claudia Holt"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8B3BEECC-A74C-4CD5-83AC-6D2E17876EFE_stringValue",
+      "value": "Ethan Soto"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E75595D-BD04-45B5-81EF-FF4BF210ABAA",
+      "overrideName": "AC744426-8170-4F18-90F4-8216E7C97D22_stringValue",
+      "value": "Works at Universum Ltd.\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "62F00727-DEF5-49F2-B6B6-5B3608CF8FE2",
+      "overrideName": "31148AC4-8CB1-4D05-A219-9544B100E45D_stringValue",
+      "value": "5 other mutual friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AECDC73-24F2-4AAE-A6D5-C83685AAD3C0",
+      "overrideName": "603EB226-29F5-4E5A-9D53-9447B9F44C91/4FAC7FE1-C5BC-4231-A2B8-11C3F7D8FE0F_symbolID",
+      "value": "0F4920FF-91D2-4486-B665-679F962A40F9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F317F401-920A-4169-84EA-E9E794E11426",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2D9C5143-8F0F-4AC8-8749-290B461DD61B",
+  "verticalSpacing": 0
+}

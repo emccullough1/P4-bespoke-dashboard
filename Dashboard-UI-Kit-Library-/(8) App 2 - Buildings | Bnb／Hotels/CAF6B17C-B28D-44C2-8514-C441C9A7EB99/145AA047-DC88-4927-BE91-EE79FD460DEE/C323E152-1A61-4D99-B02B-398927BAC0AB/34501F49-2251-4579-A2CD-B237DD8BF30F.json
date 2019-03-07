@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "34501F49-2251-4579-A2CD-B237DD8BF30F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96A33AB7-C407-4AD5-A747-F8877A2C835D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9D074D1-2C6C-49D1-BD84-8792D6B2E541",
+    "height": 70,
+    "width": 255,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "City",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3BD06EF-65EE-485A-A335-954FD47025A6",
+      "overrideName": "19CABB31-CF5C-476C-B729-CD4AE5FF3466_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/eab59dd455b50223cb0d16cce0da971ff2f7ae35.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5A3987A-9665-42F2-B51C-DF60C0DB303F",
+      "overrideName": "F2A5ECE8-11FD-4D0E-9B5E-AD07CD146552_stringValue",
+      "value": "New York"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9265121-E5F0-4905-99F1-1378B943EA8D",
+      "overrideName": "3EE24A28-11D4-49CF-9D6F-D1FBC774692D_stringValue",
+      "value": "132 Buildings"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "136B329D-90B4-409D-85CE-48071C2D6518",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A0C3880-61FB-49D3-9936-676D84E5E7FB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3CB5E5FB-05B3-48F0-8410-C77293473087",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45BEB09C-5474-4E6F-8A28-C5A5B0754BD1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "649B8811-53A0-4A4A-AE03-2D8DD5950205",
+    "height": 22,
+    "width": 1050,
+    "x": 30,
+    "y": 712
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B01ECE31-06D0-46DF-929D-ED0D045EBCCB"
+    },
+    {
+      "class": "text",
+      "id": "B0357F7B-391C-4492-9D90-E21F714E3D8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F093AAE0-B7B0-4C1D-8703-68B368634095"
+    }
+  ],
+  "name": "Divider",
+  "nameIsFixed": true,
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C01E0E6-C301-4454-9CBE-42210A46148F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

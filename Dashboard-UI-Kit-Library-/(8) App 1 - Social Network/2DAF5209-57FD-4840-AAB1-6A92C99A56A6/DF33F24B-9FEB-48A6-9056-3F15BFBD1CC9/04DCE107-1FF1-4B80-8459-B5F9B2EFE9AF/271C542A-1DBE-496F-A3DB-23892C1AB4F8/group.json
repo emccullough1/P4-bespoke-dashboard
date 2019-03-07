@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "271C542A-1DBE-496F-A3DB-23892C1AB4F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21B4803C-3EB0-46D2-856C-5783156964E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "508C351D-1C37-41E7-B5F1-03698397B41A",
+    "height": 170,
+    "width": 100,
+    "x": 110,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DFAB3962-AC80-4B46-8DF6-53F882C80FA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24093824-463D-4D13-985D-89D50FC6DE9A"
+    },
+    {
+      "class": "text",
+      "id": "2A40E4EE-98EA-46A7-B23F-56D41DE41B89"
+    }
+  ],
+  "name": "Stories",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18B23774-4BB3-4D78-968B-EF88322F4D91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

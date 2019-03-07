@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FED68FF4-3569-4346-B57A-C4A8C65EAA6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4CCFE2C-F270-4D7C-A6CD-04F31B8F503E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A62DD28-F145-48C3-A3CC-7F32668E700E",
+    "height": 100,
+    "width": 375,
+    "x": 390,
+    "y": 230
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "40AED72B-EDFC-4B69-A829-9335C7198CF4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/61f4467baafd1818e2b02a55a3c870b248437b42.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A08AB98-A7AB-4351-900E-4062889A7628_stringValue",
+      "value": "Virgie Klein"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "711C3C27-7AC3-48FE-9DE6-4B9082A34CE4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5DB75AD-C23B-46AD-A96F-0B642BA1E3EA",
+  "verticalSpacing": 0
+}

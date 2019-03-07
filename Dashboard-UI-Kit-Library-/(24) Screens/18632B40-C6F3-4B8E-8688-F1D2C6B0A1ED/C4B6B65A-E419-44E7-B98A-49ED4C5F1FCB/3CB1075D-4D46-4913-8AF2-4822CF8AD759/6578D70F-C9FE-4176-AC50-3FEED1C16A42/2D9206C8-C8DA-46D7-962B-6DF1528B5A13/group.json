@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D9206C8-C8DA-46D7-962B-6DF1528B5A13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D472D88D-2046-4818-B0C4-5457324AC215",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F8699F2-602C-409D-9137-CA4952A57D66",
+    "height": 153,
+    "width": 24,
+    "x": 0,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "DFFA0726-CEE8-43F9-B7A7-9AE3B3688FE8"
+    },
+    {
+      "class": "text",
+      "id": "EED8363B-7BB2-4C99-9323-B90DAD66A327"
+    }
+  ],
+  "name": "Dot + Date",
+  "nameIsFixed": false,
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90DD465D-45ED-4D3D-B357-D5C833D673BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

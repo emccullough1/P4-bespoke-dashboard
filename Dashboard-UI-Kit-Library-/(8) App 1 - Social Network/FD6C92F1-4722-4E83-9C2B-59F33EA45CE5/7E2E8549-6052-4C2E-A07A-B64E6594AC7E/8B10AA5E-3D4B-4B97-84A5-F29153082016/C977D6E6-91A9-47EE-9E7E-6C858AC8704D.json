@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C977D6E6-91A9-47EE-9E7E-6C858AC8704D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CF5C476-A751-4F0D-B5D4-FA8931AB79A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "463EEF97-D18B-441F-8C81-8AFFBDF08659",
+    "height": 100,
+    "width": 375,
+    "x": 0,
+    "y": 230
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "40AED72B-EDFC-4B69-A829-9335C7198CF4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1e6c3a7b221fa12f3c00850590f090b7ca8d800f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A08AB98-A7AB-4351-900E-4062889A7628_stringValue",
+      "value": "Rosalie Caldwell"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F5153FB-6EEB-485E-823B-DD295E9F7690",
+      "overrideName": "212E4DBE-747B-4E04-82EA-D3037758E934_stringValue",
+      "value": "13 mutual friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "097531FE-6D9A-4A8C-B41C-4937B6253A0E",
+      "overrideName": "562A5377-0CF1-4E27-932E-DC6B69048A59/7EF1F5A0-860A-490E-A662-D7540B7E4633_symbolID",
+      "value": "6F399FFF-69A0-4834-AF70-408580DC8901"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39D2F421-DFEE-4312-8229-3B4273566E99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5DB75AD-C23B-46AD-A96F-0B642BA1E3EA",
+  "verticalSpacing": 0
+}

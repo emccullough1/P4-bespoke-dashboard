@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BFE6D5B-C2CE-41F6-ABDD-22A07DF10843",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22595353-E0B8-4212-AA2E-66BE74DFFE02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC653696-E184-4700-ADFB-5C1B5AC88B79",
+    "height": 100,
+    "width": 375,
+    "x": 390,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "40AED72B-EDFC-4B69-A829-9335C7198CF4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/50d250458ccf2e19df3ef1847f042267d584e649.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A08AB98-A7AB-4351-900E-4062889A7628_stringValue",
+      "value": "Keith Holt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FBFD52B-0649-4C98-A84B-99251988001E",
+      "overrideName": "212E4DBE-747B-4E04-82EA-D3037758E934_stringValue",
+      "value": "420 mutual friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1546C2B-676A-477C-B85E-5CB20CCE05A3",
+      "overrideName": "562A5377-0CF1-4E27-932E-DC6B69048A59/7EF1F5A0-860A-490E-A662-D7540B7E4633_symbolID",
+      "value": "4F5D0DCF-2651-4606-89D8-E5E8A2CEDF61"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F476CA1-62EC-4E9D-9BF8-C6B92ECD89F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5DB75AD-C23B-46AD-A96F-0B642BA1E3EA",
+  "verticalSpacing": 0
+}

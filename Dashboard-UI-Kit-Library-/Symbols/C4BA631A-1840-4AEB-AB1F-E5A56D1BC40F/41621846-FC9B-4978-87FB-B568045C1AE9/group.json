@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "41621846-FC9B-4978-87FB-B568045C1AE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABEEC0F5-90E8-4053-88E2-22C403491311",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE45E1F8-A3B0-4A3B-B0C6-96F357B73DDB",
+    "height": 70,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BDB5611B-04C4-48EA-B879-1C062BCFCF51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24F92D95-1167-43A8-8A3C-76AF1A05BC48"
+    },
+    {
+      "class": "text",
+      "id": "7991FB85-D692-42D0-BD94-A2E90DF59179"
+    }
+  ],
+  "name": "Top Bar/Screen/X - Analytics Overview",
+  "nameIsFixed": true,
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FA695C7-E8AD-474D-97ED-1659346BBA7A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

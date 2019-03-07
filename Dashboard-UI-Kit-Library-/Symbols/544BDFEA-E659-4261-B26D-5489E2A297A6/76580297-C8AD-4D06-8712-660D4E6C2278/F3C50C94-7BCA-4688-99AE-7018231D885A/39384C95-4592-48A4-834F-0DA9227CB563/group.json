@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "39384C95-4592-48A4-834F-0DA9227CB563",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9923947B-95AE-4BC5-BE25-AD35C98AC37C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A64BE02-349C-47A8-9CEC-E304C64BC868",
+    "height": 16,
+    "width": 210,
+    "x": 0,
+    "y": 29
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F4209892-7644-4B5B-A873-7337D97CE199"
+    },
+    {
+      "class": "rectangle",
+      "id": "067FF558-EB54-412A-B84F-F88D2F7C283B"
+    },
+    {
+      "class": "rectangle",
+      "id": "9C4B8D05-537C-49B4-8C19-60938FE555E2"
+    },
+    {
+      "class": "rectangle",
+      "id": "755032B2-C192-458A-9645-761EA1D14A4D"
+    },
+    {
+      "class": "rectangle",
+      "id": "A08052A9-8E8A-4D51-8C15-6EFDA481D82C"
+    }
+  ],
+  "name": "Stacked Bar Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11975DB4-7675-4F85-801F-DE55F08E9E4F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

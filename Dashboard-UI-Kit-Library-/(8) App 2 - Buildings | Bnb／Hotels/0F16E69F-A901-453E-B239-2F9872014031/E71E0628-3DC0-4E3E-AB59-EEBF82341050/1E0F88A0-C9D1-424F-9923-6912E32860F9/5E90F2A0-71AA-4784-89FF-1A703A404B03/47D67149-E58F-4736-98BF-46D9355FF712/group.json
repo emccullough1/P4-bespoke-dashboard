@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "47D67149-E58F-4736-98BF-46D9355FF712",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0A620E7-A78F-4D37-9EDA-5F7B9E16487B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04E59BD0-A79F-4202-93E4-93C37D738E31",
+    "height": 160,
+    "width": 160,
+    "x": 190,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0326F48E-2279-4769-9837-355AF529C54D"
+    },
+    {
+      "class": "text",
+      "id": "8369CCCE-A93F-4423-94B5-4C3929E4D20D"
+    },
+    {
+      "class": "text",
+      "id": "FB9CF7A4-A6B3-4999-B9B5-36FA1BFAD841"
+    }
+  ],
+  "name": "Team",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BFF2F01-9E2B-4995-BC01-88A92E7837CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "19844D90-0827-4351-885C-8B880B15FDEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31C16A2B-85F9-4CAD-AEF1-E99B1035F5A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F916A752-2558-4CA9-9A3B-6414C5C75802",
+    "height": 392,
+    "width": 255,
+    "x": 0,
+    "y": 422
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Building",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B79AACB6-0FBA-4EBA-924C-D8874D41156F_stringValue",
+      "value": "329 Squaw Creek Rd. \nGreensburg, PA 15601"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8050A315-35C7-446A-B83A-C62A22E7EB71_stringValue",
+      "value": "£59/sqm"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F051ABB2-A11D-428E-9491-9A6B3B1D962B_stringValue",
+      "value": "Fallingwater"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C44A8B8-84B4-4A2F-8555-E4F55D3A8017_stringValue",
+      "value": "865 Users"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "36F04327-06B8-46C8-9F57-AC60D18386B1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7ad104b964ef95f82eb0259f6b9e1e6e9905779d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5F876E3-EAB2-42BD-BAC0-CFB179AA0DED",
+      "overrideName": "2B46F1F7-5802-41D3-8E93-E420A3D0F69F_stringValue",
+      "value": "125 Offices"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "69347523-370E-4249-B73D-99D35896F25F",
+      "overrideName": "7423B2C0-17FD-4296-80DB-37A543A6343A_stringValue",
+      "value": "For Rent"
+    }
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47FE7913-8FC9-4E1A-90A7-51F733EF5B87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B1BC161F-8F16-4133-A260-74B33305417F",
+  "verticalSpacing": 0
+}

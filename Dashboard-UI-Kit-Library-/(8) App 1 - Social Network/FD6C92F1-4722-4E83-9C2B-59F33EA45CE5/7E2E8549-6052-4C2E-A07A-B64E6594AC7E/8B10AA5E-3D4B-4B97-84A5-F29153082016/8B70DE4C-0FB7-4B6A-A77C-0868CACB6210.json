@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B70DE4C-0FB7-4B6A-A77C-0868CACB6210",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "40AED72B-EDFC-4B69-A829-9335C7198CF4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/78082d38f04f0c6b18a7624b134d8afe56c4f239.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A08AB98-A7AB-4351-900E-4062889A7628_stringValue",
+      "value": "Henry Harvey"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B2191E0-AB0A-4F54-A4DE-E996B42D5668",
+      "overrideName": "212E4DBE-747B-4E04-82EA-D3037758E934_stringValue",
+      "value": "15 mutual friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2BF8D07-8C43-4632-895D-F03FF4115877",
+      "overrideName": "562A5377-0CF1-4E27-932E-DC6B69048A59/7EF1F5A0-860A-490E-A662-D7540B7E4633_symbolID",
+      "value": "3F01D61D-4404-4C33-A372-DF39A885874E"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5DB75AD-C23B-46AD-A96F-0B642BA1E3EA",
+  "verticalSpacing": 0
+}

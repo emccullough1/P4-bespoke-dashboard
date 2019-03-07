@@ -1,0 +1,100 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "79D86B8A-E5CA-496B-B078-29D1B1236789",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4FDC851-FCD7-4BC7-B39D-B533FCD273C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F9D32098-B86B-47A0-9895-6A933C7C0C80",
+    "height": 24,
+    "width": 10.00000000000045,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "049E19B9-6520-4DC8-8726-2B6EE9C59598"
+    },
+    {
+      "class": "oval",
+      "id": "38D2EC71-0932-49F4-96A2-C2DC820C9AFA"
+    },
+    {
+      "class": "oval",
+      "id": "59A8C16D-5631-4E0C-851D-FE072115199E"
+    },
+    {
+      "class": "oval",
+      "id": "B97B3B19-AE9B-45FC-AFBD-F3CA57F93FD2"
+    },
+    {
+      "class": "oval",
+      "id": "FB402A2D-17AD-4793-BA00-A0C83D09083F"
+    },
+    {
+      "class": "oval",
+      "id": "D4D25B1D-78CC-4685-A58B-AF47166B24FC"
+    },
+    {
+      "class": "oval",
+      "id": "9512F04E-1E94-4F8F-82CC-79C83559E5F4"
+    },
+    {
+      "class": "oval",
+      "id": "A48FFD7F-5543-481A-A111-0F6F0FF0D4D7"
+    }
+  ],
+  "name": "D&D Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9741996-16E0-4AD9-A8C1-84F6B117B1D4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9019607843137255,
+          "green": 0.8627450980392157,
+          "red": 0.8352941176470589
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

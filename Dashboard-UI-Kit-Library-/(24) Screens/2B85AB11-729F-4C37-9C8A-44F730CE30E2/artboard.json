@@ -1,0 +1,151 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9921568627450981,
+    "do_objectID": "FF70A74B-6312-44A3-88CD-92029BA9D9A8",
+    "green": 0.984313725490196,
+    "red": 0.984313725490196
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B85AB11-729F-4C37-9C8A-44F730CE30E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "864608A5-217E-4267-B918-183AB323E725",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC472D29-CC85-4FDA-9E45-55C0A035CD9F",
+    "height": 1160,
+    "width": 1440,
+    "x": 9918,
+    "y": -512
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D0DE4921-5512-4D2F-BDEE-E4E111F95251",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FBCA77C4-B929-4BE5-B242-9372599BFB80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2274E10E-1249-4A8E-B57F-1648E8B76066"
+    },
+    {
+      "class": "group",
+      "id": "FFD74F64-1C5F-4707-A3DD-9892CA22EEB3"
+    },
+    {
+      "class": "group",
+      "id": "7A47F86E-8B52-41D2-8EED-CDC5262E38F5"
+    },
+    {
+      "class": "group",
+      "id": "1D0360F0-8F9F-4E25-9B85-4D8477CA7B81"
+    },
+    {
+      "class": "group",
+      "id": "6CF67BAE-C667-4D6C-9BF5-39A8781636F0"
+    },
+    {
+      "class": "group",
+      "id": "C012EA8B-9964-49D1-BC1D-E08BB8581050"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Analytics Dashboard",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9819B997-9AA8-4106-BC07-56663B229D3E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8CBDC8A1-280A-4AB6-9D3E-CF6540270EF9",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "56BB07FC-0D47-41C9-92AE-E56C176379D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7BBA622-27E7-4CAC-A2F2-9B305693F82D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BD7B6AF-24E1-4DA3-96E0-64653F2B7BE3",
+    "height": 20,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E2DF8C72-5D8F-4D2B-BC3E-3073EC74F01D"
+    },
+    {
+      "class": "shapePath",
+      "id": "4F16F7A2-90D1-4F61-9FBE-A958FED26D2F"
+    },
+    {
+      "class": "shapePath",
+      "id": "36B0A88A-3915-436F-8601-18BAF075A0E5"
+    },
+    {
+      "class": "shapePath",
+      "id": "9DE140B7-885D-4BC4-92FA-5E41ACA6633A"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E6CC7EE-A372-4E29-95AC-01D4696C8A4C"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD3D2BE4-6C22-4706-B53E-83EAD4EB304B"
+    },
+    {
+      "class": "shapePath",
+      "id": "47B2C24B-A008-44E4-9AE9-9F17BA5C13DC"
+    },
+    {
+      "class": "shapePath",
+      "id": "F1405C09-4A0E-4645-9E33-7E6FAB0E6FD6"
+    }
+  ],
+  "name": "gallery_boards Extra",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E0D664C-A4AD-4039-A98D-B35421B51E47",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

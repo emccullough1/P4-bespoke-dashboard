@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "76580297-C8AD-4D06-8712-660D4E6C2278",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9395AF1D-DCD2-4C52-B440-03DA8A818302",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B7C3FC2-3FF8-446B-9729-2FA837B0F20F",
+    "height": 1160,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9A578EDA-0246-49B5-B10E-224D9BF0396E"
+    },
+    {
+      "class": "group",
+      "id": "5241DFA0-608D-4A5E-A8CD-53695BD6CDBA"
+    },
+    {
+      "class": "group",
+      "id": "DD2D49EC-26FF-41F0-B74E-C32427E2242D"
+    },
+    {
+      "class": "group",
+      "id": "F3C50C94-7BCA-4688-99AE-7018231D885A"
+    },
+    {
+      "class": "group",
+      "id": "490059C2-7358-4B8E-9D0E-9327E1312368"
+    },
+    {
+      "class": "group",
+      "id": "0C5E5983-60AF-45AF-865D-6F3B54953929"
+    }
+  ],
+  "name": "Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "7581D99A-4162-421B-881C-00105221079A",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB394F2D-1EC4-45F0-975C-015A0ACB6DBB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "5F8ED7EA-B6D1-4123-953E-619E5201355A",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A89EC5FC-59E8-4B6F-BD0D-D09D481925F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 290,
+    "x": 30,
+    "y": 262
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "556F7696-ADD3-4105-85A1-F7203112F54A"
+    },
+    {
+      "class": "rectangle",
+      "id": "33655497-B8DF-457C-8439-A5CD4C874B3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAF4D3DF-8479-4E93-A042-79C110F8785B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F412AF4-0BE5-4B4A-A679-A943A9E4C5E2"
+    }
+  ],
+  "name": "Discount",
+  "nameIsFixed": true,
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

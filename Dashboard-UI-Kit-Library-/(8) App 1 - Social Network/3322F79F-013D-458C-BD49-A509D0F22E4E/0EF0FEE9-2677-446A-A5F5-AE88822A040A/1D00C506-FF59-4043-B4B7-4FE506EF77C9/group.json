@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D00C506-FF59-4043-B4B7-4FE506EF77C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4063BD7-B72D-4380-82BD-7E6DE0945251",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C5F56DC-A50A-4B93-859F-E1E6096CD4C3",
+    "height": 1083,
+    "width": 730,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2D278003-1F8B-4220-A799-9982434F32F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3D2F093-09E9-4A14-965F-3F1237096131"
+    }
+  ],
+  "name": "Top Bar + Base",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "219EB546-8CA4-4D13-93C5-45AF0EF62C0F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

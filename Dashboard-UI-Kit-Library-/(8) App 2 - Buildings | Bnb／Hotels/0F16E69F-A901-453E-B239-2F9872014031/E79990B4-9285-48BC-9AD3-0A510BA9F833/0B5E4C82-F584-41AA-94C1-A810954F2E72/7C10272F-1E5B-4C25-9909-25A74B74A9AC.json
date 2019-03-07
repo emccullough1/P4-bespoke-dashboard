@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C10272F-1E5B-4C25-9909-25A74B74A9AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24A7E7D6-5223-4DFE-A971-C4B2ED8AA7C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01A2C21E-770D-4274-A47C-431784B6AB89",
+    "height": 70,
+    "width": 570,
+    "x": 0,
+    "y": 508
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C10D0243-F69A-431A-94A9-D36C13BD649D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04cf17ccedaab9a5170dfecc007fbd13466bf988.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "71A4F298-5C8C-4635-8982-5A8F9620E018/2C68B8EF-9603-41C0-949B-97FE58D6531F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04cf17ccedaab9a5170dfecc007fbd13466bf988.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3A293CAD-BC88-4F7B-A909-879C431A44B6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CF0F9FB3-E02C-431E-A4A7-D323B3B565D4_stringValue",
+      "value": "Bill Hammond"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "754DEAC9-F67A-4947-941A-CE5A9FC63237_stringValue",
+      "value": "Tinder"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "631F56F1-5374-4933-8C0B-1AA1CCCF40B3",
+      "overrideName": "71A4F298-5C8C-4635-8982-5A8F9620E018/808D8340-C573-49A3-B077-1F900ACD4B4D_symbolID",
+      "value": "B3EFB26D-26DD-4642-9334-F551EAE10226"
+    }
+  ],
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DA5BF03-6918-4E58-A6AA-9862790424EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "956F6C84-E09F-45A6-8FD2-7C018F1027BE",
+  "verticalSpacing": 0
+}

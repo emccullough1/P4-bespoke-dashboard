@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F88C7BC-2FC3-452B-AB97-D7C676A2674C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42B85BED-7DC5-412D-BD0C-425AE3D8497B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "036E9424-4536-472C-A3F9-2C1B3F9B0BBC",
+    "height": 70,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6DCCDF2F-CE43-4FE9-A737-6C2BDEBF1448"
+    },
+    {
+      "class": "text",
+      "id": "AE18A60C-68DB-4D85-B79F-5498685E5E98"
+    }
+  ],
+  "name": "Top Bar/Screen/X - Only Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA4AF2C5-761F-4796-BC93-A826C7A01B33",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

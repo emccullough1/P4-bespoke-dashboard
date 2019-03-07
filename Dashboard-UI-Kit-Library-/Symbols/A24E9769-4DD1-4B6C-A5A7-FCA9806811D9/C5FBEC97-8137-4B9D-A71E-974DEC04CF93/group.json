@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5FBEC97-8137-4B9D-A71E-974DEC04CF93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1090,
+    "width": 285,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5D1B39CE-5BFC-4232-9841-3048ADBC3048"
+    },
+    {
+      "class": "group",
+      "id": "25915E4D-37D2-4679-8F93-10CB6B64C5FC"
+    },
+    {
+      "class": "text",
+      "id": "E2CF5B2D-7CAC-4220-9B78-F9DC088BEBC5"
+    },
+    {
+      "class": "text",
+      "id": "6F37874A-AED8-4990-AB68-920B26FCC081"
+    },
+    {
+      "class": "text",
+      "id": "9B112C69-5CAE-4CC2-81D4-CA4CA5E58672"
+    },
+    {
+      "class": "text",
+      "id": "1AFC86C2-3E49-4481-B7DB-72D50E081B11"
+    }
+  ],
+  "name": "Chat Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

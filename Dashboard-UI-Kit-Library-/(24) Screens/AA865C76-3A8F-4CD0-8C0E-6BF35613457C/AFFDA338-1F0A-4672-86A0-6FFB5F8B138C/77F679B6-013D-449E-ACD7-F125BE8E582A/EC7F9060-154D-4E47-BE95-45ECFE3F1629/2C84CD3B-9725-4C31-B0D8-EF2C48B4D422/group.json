@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C84CD3B-9725-4C31-B0D8-EF2C48B4D422",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1B16832-909D-4F17-971B-A3F7F85EFE80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4C29871-2455-47CA-9810-8FFE9ECEB182",
+    "height": 56,
+    "width": 160,
+    "x": 30,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "30D5EDBC-27F2-498D-92C9-076B145EB656"
+    },
+    {
+      "class": "text",
+      "id": "EAECA67A-8275-456E-9262-3F340CA6F160"
+    },
+    {
+      "class": "rectangle",
+      "id": "2897C424-01F8-4006-BB50-48AA7C3816D4"
+    }
+  ],
+  "name": "App",
+  "nameIsFixed": true,
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8894DA3D-18F4-4531-8272-E86AD0ED2C5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

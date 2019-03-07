@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "63110559-8F07-4D81-BDCF-B0AC533491F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 495,
+    "width": 540,
+    "x": 165,
+    "y": 614
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "036E4EDB-1B9E-4E58-B5E5-D03BFFDFA33D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67D0539E-2EFF-44D7-8D55-A97ADBA4D35F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9674B4E6-E87F-40A7-AEAD-26D065984D49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B52E1EDA-7C93-444E-B2B3-9FD91889E4EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "611783E1-0A74-494A-A583-26680E1DBF0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FFEDF06-A14C-4CC3-BF7F-046713C0C645"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E8D6267-6838-474D-90DC-8F52CDD88C31"
+    },
+    {
+      "class": "group",
+      "id": "6A66F66A-A5CA-4F29-91AF-B32AC6BE1B21"
+    }
+  ],
+  "name": "Invoices",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

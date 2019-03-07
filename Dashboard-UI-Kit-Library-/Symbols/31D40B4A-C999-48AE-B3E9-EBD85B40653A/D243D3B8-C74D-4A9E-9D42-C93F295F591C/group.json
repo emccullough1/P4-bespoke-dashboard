@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D243D3B8-C74D-4A9E-9D42-C93F295F591C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 143,
+    "width": 350,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "40D7883C-7A2C-4904-BF41-DC994FB8A969"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6D8C6FD-7C1A-43C8-BEA1-DA8FBEF307A2"
+    },
+    {
+      "class": "text",
+      "id": "34964266-9DD6-4C12-872A-EC543856345E"
+    },
+    {
+      "class": "text",
+      "id": "CEC49265-6803-4CCB-99F1-B7BF3C85DAA2"
+    }
+  ],
+  "name": "News",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

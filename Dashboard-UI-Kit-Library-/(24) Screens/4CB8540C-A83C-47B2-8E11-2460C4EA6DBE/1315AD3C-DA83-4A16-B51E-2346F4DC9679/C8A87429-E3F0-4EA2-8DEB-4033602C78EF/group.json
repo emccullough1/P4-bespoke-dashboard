@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8A87429-E3F0-4EA2-8DEB-4033602C78EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 690,
+    "x": 20,
+    "y": 341
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F905ED26-1B98-4D4A-92D4-1BA699A20797"
+    },
+    {
+      "class": "rectangle",
+      "id": "902A8567-0E8F-48C6-B6DC-1B762A8B929B"
+    },
+    {
+      "class": "rectangle",
+      "id": "EB41AB06-03CF-4216-A7D3-C0D320253DEF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D4284F1-E803-4FA3-8345-C8EB2727220C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C73D508B-8AD0-4D32-A51E-70EDBE2CA1B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7F27D19-6B9B-4182-838A-D7DDC899B11A"
+    },
+    {
+      "class": "text",
+      "id": "A6C96A6F-DC77-4BD8-9743-26A31C63BEC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D70C373-E406-4C35-960F-B5C89D312FA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50B1AA12-C913-4776-9C1F-3AAF98BE11C3"
+    }
+  ],
+  "name": "Video Control Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 34,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DCD112E7-3D8D-4E48-9B5E-6697027C175E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC3361B0-13CA-4A66-8DDF-85D952CC4C93",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6AD8E788-A281-4D6D-A6DA-93EE10D3A5D0",
+    "height": 46,
+    "width": 540,
+    "x": 0,
+    "y": 465
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EBE955C6-A6DE-4746-9C12-9F985E7405B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "E8EE8187-AD45-4CCA-A83D-5B724FF584D4"
+    },
+    {
+      "class": "rectangle",
+      "id": "DAB5CF5B-266B-4972-97FF-079A697C7D6F"
+    }
+  ],
+  "name": "Interaction Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71D81788-8BF9-40A2-80FA-4A68EE02526F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

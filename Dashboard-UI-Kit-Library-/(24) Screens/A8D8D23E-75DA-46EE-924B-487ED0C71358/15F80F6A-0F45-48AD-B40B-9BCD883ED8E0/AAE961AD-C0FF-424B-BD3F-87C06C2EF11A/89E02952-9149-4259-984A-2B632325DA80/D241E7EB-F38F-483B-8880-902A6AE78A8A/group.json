@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D241E7EB-F38F-483B-8880-902A6AE78A8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "32A85BA8-AC8B-4D5C-817A-8C663E21F201",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8452434-C499-4F28-9F2D-776F32356EFC",
+    "height": 12,
+    "width": 40,
+    "x": 630,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "12053AFB-06D3-42A3-84A4-6F218EFB5A01"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "77BBF735-4CA7-42BC-A79F-5ED73B465971"
+    }
+  ],
+  "name": "Visa Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C980985B-4EEC-415D-A8FE-AC4C15D7E8B9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "331401CA-B6C5-4A74-AFD9-DACD0F7EF83D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

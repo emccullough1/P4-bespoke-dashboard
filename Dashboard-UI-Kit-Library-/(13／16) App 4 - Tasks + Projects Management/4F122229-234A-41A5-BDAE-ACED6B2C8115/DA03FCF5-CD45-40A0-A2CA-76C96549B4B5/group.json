@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA03FCF5-CD45-40A0-A2CA-76C96549B4B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 350,
+    "x": 680,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D2BBF932-7B94-4085-9258-F3E6F9295C81"
+    },
+    {
+      "class": "rectangle",
+      "id": "98B94FC8-58F4-4EB0-B92E-27B8722AE21C"
+    },
+    {
+      "class": "text",
+      "id": "2543D5A7-AE21-42D9-957B-98A9D29972A1"
+    },
+    {
+      "class": "text",
+      "id": "454ED327-FBB1-4EAD-8BB0-3276E12F9192"
+    }
+  ],
+  "name": "In Progress Top Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

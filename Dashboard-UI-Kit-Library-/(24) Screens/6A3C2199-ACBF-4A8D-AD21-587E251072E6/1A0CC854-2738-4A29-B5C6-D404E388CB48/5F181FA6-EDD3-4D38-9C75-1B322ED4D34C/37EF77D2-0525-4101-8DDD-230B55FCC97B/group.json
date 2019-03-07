@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "37EF77D2-0525-4101-8DDD-230B55FCC97B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 210,
+    "x": 0,
+    "y": 29
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8665017E-5E38-4568-BF7D-CFCA1C4763AD"
+    },
+    {
+      "class": "rectangle",
+      "id": "D35A0C36-8DC0-4D8E-A220-2A3A25391FD8"
+    },
+    {
+      "class": "rectangle",
+      "id": "C78ED177-58C8-4B16-B7F5-73FC87743802"
+    },
+    {
+      "class": "rectangle",
+      "id": "AE46DD9A-0F41-4627-850D-7FD0A9D50722"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C150619-F946-4FB9-BAA4-4BA0551BA2A3"
+    }
+  ],
+  "name": "Stacked Bar Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

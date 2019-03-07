@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "54049AA6-CE68-42AF-9D41-82FA70E2B6A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 178,
+    "width": 445,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6F62BD34-4336-4BC1-A6A3-B7577192591E"
+    },
+    {
+      "class": "rectangle",
+      "id": "B3062CBA-D83B-468D-80A3-4F47ADE0AFFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71D34783-7BCE-4D4D-A20F-74B2D7B0A440"
+    },
+    {
+      "class": "text",
+      "id": "6059747D-A6EF-4102-9629-EDF8A5D484EA"
+    }
+  ],
+  "name": "Ratings Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

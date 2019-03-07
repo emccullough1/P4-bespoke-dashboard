@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BDDFD90-9A82-491A-94EE-E20DE446A5D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "473CC0A0-6075-4E91-AD09-E64235F33494",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BAF60B9-8C8F-49E0-AF75-0D356319F58E",
+    "height": 175,
+    "width": 255,
+    "x": 450,
+    "y": 238
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "869D6478-550B-47EF-935A-FCFD9BEB100C"
+    },
+    {
+      "class": "text",
+      "id": "6709C989-2A29-4B64-8A16-2C902E3AC648"
+    },
+    {
+      "class": "text",
+      "id": "47534A36-2B23-408D-84EC-1578E7F0E1E3"
+    },
+    {
+      "class": "text",
+      "id": "037D1B2D-271F-41D1-9241-F392746D60C5"
+    },
+    {
+      "class": "text",
+      "id": "D5BA59FC-6CBD-480C-A609-7244CCC097BC"
+    },
+    {
+      "class": "group",
+      "id": "6E769336-A833-487E-8795-E24BBB5B4ABE"
+    }
+  ],
+  "name": "Progress Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E4F90E9-DD4D-4818-B46A-E27A342EF8AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

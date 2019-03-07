@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BCDA82D5-0345-4380-B5B0-0D6E586378D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83CBD9DA-DCA7-4117-B1C7-1C8F475CA059",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E20F96A-7E86-4B32-9418-006EAE0FBAA4",
+    "height": 392,
+    "width": 255,
+    "x": 0,
+    "y": 422
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Building",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B79AACB6-0FBA-4EBA-924C-D8874D41156F_stringValue",
+      "value": "365 Winding Way St. \nCharlottesville, VA 22901"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8050A315-35C7-446A-B83A-C62A22E7EB71_stringValue",
+      "value": "£129/sqm"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F051ABB2-A11D-428E-9491-9A6B3B1D962B_stringValue",
+      "value": "Villa Savoye"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C44A8B8-84B4-4A2F-8555-E4F55D3A8017_stringValue",
+      "value": "105 Users"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "36F04327-06B8-46C8-9F57-AC60D18386B1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/433d64e9937f7d1219bd1aa545061d19028a89f6.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EF083F2-58B0-403E-AC8D-26EC1BE25A85",
+      "overrideName": "2B46F1F7-5802-41D3-8E93-E420A3D0F69F_stringValue",
+      "value": "9 Offices"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1612D357-A536-470A-A473-32FA4F5E2A97",
+      "overrideName": "7423B2C0-17FD-4296-80DB-37A543A6343A_stringValue",
+      "value": "For Rent"
+    }
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "077DD370-E8A0-40F5-BB63-EE3F0EEDCA8A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B1BC161F-8F16-4133-A260-74B33305417F",
+  "verticalSpacing": 0
+}

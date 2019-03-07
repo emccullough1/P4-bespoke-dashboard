@@ -1,0 +1,154 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9921568627450981,
+    "do_objectID": "2E957B05-D842-4F1D-A02E-42E9289116D5",
+    "green": 0.984313725490196,
+    "red": 0.984313725490196
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2193648D-F9E8-4CAE-AFF0-33CC3ACBA042",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2AC48A5-FFCE-47F3-9DC8-974DDE4F697A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D960CFA-7105-4CC2-AE1E-0CF2683D398F",
+    "height": 1160,
+    "width": 1440,
+    "x": 5298,
+    "y": -512
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A2D70921-658E-4374-B56D-131E81E680AD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "E8DDF2E2-2BA3-42A7-BCA4-B120FA19A7E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "E4A10546-3418-49F7-B0AF-900BC8984395"
+    },
+    {
+      "class": "group",
+      "id": "082FC440-7D00-4257-801D-17D4E560B3F3"
+    },
+    {
+      "class": "group",
+      "id": "197B4411-DAE4-4F01-BCAF-FAD8B57E4688"
+    },
+    {
+      "class": "text",
+      "id": "C7432904-888D-43B2-8559-C666602C3245"
+    },
+    {
+      "class": "group",
+      "id": "0A977716-1679-446F-9D73-032936C990A7"
+    },
+    {
+      "class": "group",
+      "id": "76FA9AA1-3B5D-4A4F-AFD1-3B0BB81A62DF"
+    },
+    {
+      "class": "group",
+      "id": "5B6E69E7-D693-430E-A2BD-D78B787CCA1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15F00855-17C6-4C98-BDDE-86B6082A1086"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Payment Window",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49930551-5539-4213-98BE-162E322FB4F4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9CD3B238-38AB-4147-9E57-E10F9E58729C",
+    "guides": [
+    ]
+  }
+}

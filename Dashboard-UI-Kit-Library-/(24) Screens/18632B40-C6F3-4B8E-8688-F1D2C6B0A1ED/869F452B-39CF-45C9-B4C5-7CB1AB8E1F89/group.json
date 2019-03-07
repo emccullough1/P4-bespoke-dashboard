@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "869F452B-39CF-45C9-B4C5-7CB1AB8E1F89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90ABF019-595B-42E3-91CB-AD07DB865CC1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B17707C6-82A4-4864-B053-A8967D9ED18F",
+    "height": 175,
+    "width": 255,
+    "x": 1020,
+    "y": 238
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "83F3FF13-D12E-4F92-ABCC-4488944489FF"
+    },
+    {
+      "class": "text",
+      "id": "C9EB9423-A98F-42CC-A447-B61E17B21E44"
+    },
+    {
+      "class": "text",
+      "id": "3D59B8ED-6F6A-4B80-9B91-A7F4E51684F2"
+    },
+    {
+      "class": "text",
+      "id": "71E596AF-7E6B-4AD3-96AD-0AEA2DFD2F1C"
+    },
+    {
+      "class": "text",
+      "id": "7A13ED59-A709-4E35-A644-6CF7E8C9D4BB"
+    },
+    {
+      "class": "group",
+      "id": "AFDEDEBF-19D8-4A6E-B533-B474193A6EE6"
+    }
+  ],
+  "name": "Progress Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F359F91-CEC2-4DD9-8316-00A44B9AB804",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

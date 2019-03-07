@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A0CC854-2738-4A29-B5C6-D404E388CB48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFB6C7F6-9F81-4313-BC44-8917CC58F676",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2219EB15-6BD5-43A0-8AD5-2E66133AEB10",
+    "height": 1160,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "618A0F73-72EC-4A6E-86A8-9D9E3BBD0BED"
+    },
+    {
+      "class": "group",
+      "id": "E5C62196-9216-4198-9F79-DC957018A8C3"
+    },
+    {
+      "class": "group",
+      "id": "0D63DA49-FC0D-4CEE-9148-6DCE2875AD2E"
+    },
+    {
+      "class": "group",
+      "id": "5F181FA6-EDD3-4D38-9C75-1B322ED4D34C"
+    },
+    {
+      "class": "group",
+      "id": "23FFD4DC-AAEE-4B75-BD3B-91C2EDE37928"
+    },
+    {
+      "class": "group",
+      "id": "425F6FCD-5859-4E03-8BE4-FA1473831A29"
+    }
+  ],
+  "name": "Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "7581D99A-4162-421B-881C-00105221079A",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 14
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

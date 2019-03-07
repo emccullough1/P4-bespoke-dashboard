@@ -1,0 +1,142 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9921568627450981,
+    "do_objectID": "CFCB1855-7A6F-4A52-AC2F-404294F6E299",
+    "green": 0.984313725490196,
+    "red": 0.984313725490196
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8838177F-4D79-409C-9FE5-866A085E609D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12A52E3C-56CC-4A1D-BE39-CBCE8ABFA3E8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5514F323-0AA6-400C-B50D-D96CC0BCCC8A",
+    "height": 1160,
+    "width": 1440,
+    "x": -862,
+    "y": -512
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EDF70E07-7CC4-431C-96C6-EC481E8229B4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3D431C2C-B2AD-4167-91D2-5BCD6FAF8660"
+    },
+    {
+      "class": "group",
+      "id": "366CB00E-FCE5-4AB2-9333-A31AC79A85A4"
+    },
+    {
+      "class": "group",
+      "id": "E81AB294-9B0A-4186-BB7A-0F5A09FDA39F"
+    },
+    {
+      "class": "group",
+      "id": "C2F14105-18E7-4EDA-8431-DDEB0F3B05E4"
+    },
+    {
+      "class": "group",
+      "id": "F6F9E6AD-656C-424C-9AEA-14B2ABBB2A54"
+    },
+    {
+      "class": "group",
+      "id": "8512BE39-6DF3-4DC8-83A7-325A82A2D56D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "Dashboard Overview",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC6EAFDC-ECF0-413D-90D8-DE6AADFC2C6B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "267D0CE6-502F-483B-8B36-D2323C59034D",
+    "guides": [
+    ]
+  }
+}

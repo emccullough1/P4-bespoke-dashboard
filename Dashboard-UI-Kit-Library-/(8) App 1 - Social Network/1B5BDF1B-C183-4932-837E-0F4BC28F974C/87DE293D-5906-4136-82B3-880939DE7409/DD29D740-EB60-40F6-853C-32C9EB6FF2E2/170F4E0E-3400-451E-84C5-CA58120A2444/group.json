@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "170F4E0E-3400-451E-84C5-CA58120A2444",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 110,
+    "width": 150,
+    "x": 160,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "43B1A73E-3D07-484F-9BEB-4C908AF2025A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7FF9648E-9480-4980-ABDF-F9C368EC5AE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17373C63-9E2D-40DB-8F6A-1B8FFE30D98C"
+    },
+    {
+      "class": "text",
+      "id": "F0A816A3-A3D5-49E0-B3C5-112A244B06BB"
+    }
+  ],
+  "name": "Tile",
+  "nameIsFixed": false,
+  "resizingConstraint": 62,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

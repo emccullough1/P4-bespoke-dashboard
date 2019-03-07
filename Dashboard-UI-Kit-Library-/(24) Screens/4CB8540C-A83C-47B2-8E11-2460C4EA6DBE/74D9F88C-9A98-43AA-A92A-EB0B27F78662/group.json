@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "74D9F88C-9A98-43AA-A92A-EB0B27F78662",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 151,
+    "width": 350,
+    "x": 925,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9A8F3D1F-53FA-460C-90E7-E7324EC20458"
+    },
+    {
+      "class": "text",
+      "id": "F2501367-3993-429B-8774-D86AE459EA85"
+    },
+    {
+      "class": "text",
+      "id": "FBFEE4BA-A32B-4A75-B6B2-2D2CFD5C4C9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DCEDC0D-C05B-400D-A4D9-E519D12A46CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9A0101D-FBE6-4F79-9C97-4196FD456826"
+    }
+  ],
+  "name": "Navigation Widget",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

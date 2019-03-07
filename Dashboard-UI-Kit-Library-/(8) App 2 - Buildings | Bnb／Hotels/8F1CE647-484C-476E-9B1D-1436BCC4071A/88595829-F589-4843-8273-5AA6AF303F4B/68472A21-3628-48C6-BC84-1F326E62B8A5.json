@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "68472A21-3628-48C6-BC84-1F326E62B8A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54C62E02-719E-4C3D-89BE-91CDB23D68CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE173A8B-79F3-4468-9068-6AC5750A81E3",
+    "height": 145,
+    "width": 380,
+    "x": 0,
+    "y": 227
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widget/Buildings/Building List Item",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "62F8D510-7CCF-4E4F-ABD6-0CA9A5926513",
+      "overrideName": "0C6F7F6F-8A2F-4002-8E4C-59BF164FB5FA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8e599727e22ed493b02510cc85e404d48ce3c4fb.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82035D96-D808-42A1-BCF8-C7E1297653FA",
+      "overrideName": "71747601-6939-47F4-A92D-C70B6FC33052_stringValue",
+      "value": "Lotus Temple"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D54FC6A3-6579-4C2B-BCBF-C9321D7BD662",
+      "overrideName": "6C7843A7-543F-42C5-B044-56E23F3806A6_stringValue",
+      "value": "164 S. Carson Court \nNewport News, VA 23601"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11E71E2A-1E65-4623-B98E-262EA69E9E79",
+      "overrideName": "7CFCEAC2-C2D9-455A-9D0A-D411D26F32DF_stringValue",
+      "value": "£65/sqm"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57ACF939-4D7A-4FDD-A2D9-C4EF4365BA3D",
+      "overrideName": "ECFC55C2-0F0B-47D7-85A2-70AD1E71B8C9_stringValue",
+      "value": "For Rent"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "480FC3BD-1A2F-4F47-B15E-9AA9D551E245",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D52A3023-C682-469D-808E-70264928F97E",
+  "verticalSpacing": 0
+}

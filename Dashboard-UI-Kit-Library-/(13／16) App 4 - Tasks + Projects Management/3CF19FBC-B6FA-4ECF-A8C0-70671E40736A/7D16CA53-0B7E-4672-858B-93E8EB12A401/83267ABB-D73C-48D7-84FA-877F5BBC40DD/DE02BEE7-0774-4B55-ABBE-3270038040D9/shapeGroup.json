@@ -1,0 +1,128 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE02BEE7-0774-4B55-ABBE-3270038040D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41A3C72D-39B5-4D6D-BF31-8E80EB2905C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "232DF882-2769-4866-8313-EDEC806FD913",
+    "height": 172,
+    "width": 1,
+    "x": 175,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3A8403D5-7451-4A83-87D4-7F86A588A7FA"
+    },
+    {
+      "class": "rectangle",
+      "id": "650ACD18-BE6B-47AB-A49C-4D7634282DBC"
+    },
+    {
+      "class": "rectangle",
+      "id": "07FAB9FF-95AB-4A25-BDA3-AD40BB93D40D"
+    },
+    {
+      "class": "rectangle",
+      "id": "E56167FF-26AD-4B99-AD6E-E913B183EB4F"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A254D81-DAA9-4F58-9D5F-C1D201C533F1"
+    },
+    {
+      "class": "rectangle",
+      "id": "563C06D7-21A7-496A-9E7F-5C192D533D6A"
+    },
+    {
+      "class": "rectangle",
+      "id": "BE59E5F2-CB70-4952-8E1C-72515E02E9CA"
+    },
+    {
+      "class": "rectangle",
+      "id": "4B623344-27E7-4498-9064-A6813A94CFF6"
+    },
+    {
+      "class": "rectangle",
+      "id": "0EB1407A-FD90-43D2-9EBA-11C3840B7F1A"
+    },
+    {
+      "class": "rectangle",
+      "id": "F461E49E-C4FC-47F9-8085-3D1898E1005C"
+    },
+    {
+      "class": "rectangle",
+      "id": "840E4FCC-7503-4668-B06D-7FA7FBFEF3B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "9A7C6C67-EEF2-4BDF-AD43-D04475BAB9A4"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C196400-8811-470C-B15B-C4E035ACEB22"
+    },
+    {
+      "class": "rectangle",
+      "id": "635FD4C3-A11B-4067-BDBB-537FB68EE244"
+    },
+    {
+      "class": "rectangle",
+      "id": "FBA7D612-53D8-47E6-9192-5648E53637A6"
+    }
+  ],
+  "name": "Months Line",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FF4BFF0-C581-4F6F-AE49-79A6C649BF88",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9529411764705882,
+          "green": 0.9294117647058824,
+          "red": 0.9176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A7C3CFC-12D4-4CE7-9F4A-5557887B4452",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51C7A890-24A1-4AEF-834C-42FF63E8FA90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D8E45DA-44AC-47AF-8F80-A00C1EFEB621",
+    "height": 285,
+    "width": 1110,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AEB5287E-B97B-44F0-AA42-B85C5EDFF9CA"
+    },
+    {
+      "class": "rectangle",
+      "id": "FF06F2DC-B659-492E-9F9D-E98DBB5CFB67"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCE1FF05-1217-474E-9B24-78542AD59BDC"
+    },
+    {
+      "class": "group",
+      "id": "0BC898DB-7B38-419F-A608-2F6B4B560A03"
+    },
+    {
+      "class": "group",
+      "id": "B4050DE7-4663-4B33-8DA0-C6227E87E122"
+    },
+    {
+      "class": "group",
+      "id": "CFC590CD-C9A7-4DBE-8210-14D038D47899"
+    },
+    {
+      "class": "group",
+      "id": "3B36D29D-3948-4022-A363-0D5AFE51AD35"
+    }
+  ],
+  "name": "Job Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D849E8C-E37C-43AA-A3DC-60D3EDA77ED2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

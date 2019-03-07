@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BD7444C-E067-42CD-AF0D-95444C8FBB66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C0A1811-E052-4D87-9525-74155D66CF5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5072B1D-67C6-459F-958D-9E8A638E9DF6",
+    "height": 38,
+    "width": 39,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C9EF82E3-46D1-4B63-A4FD-5B137E0EADBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6E9F4BB-2AA2-4986-8FEC-E994ADD65084"
+    },
+    {
+      "class": "rectangle",
+      "id": "F1CDB598-5307-47BE-B288-AA9AA76CE31A"
+    }
+  ],
+  "name": "Arrow",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9626C856-77E1-4434-851F-0CED2CCB70CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

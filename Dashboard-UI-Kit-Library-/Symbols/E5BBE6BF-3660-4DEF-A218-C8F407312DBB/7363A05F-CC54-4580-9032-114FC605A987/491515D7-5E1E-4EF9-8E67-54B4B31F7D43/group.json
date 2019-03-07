@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "491515D7-5E1E-4EF9-8E67-54B4B31F7D43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39C94367-9E27-4209-80CC-795D744D4CCF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CAD42EC6-CB7A-48ED-9ABA-68804CCFEB32",
+    "height": 38,
+    "width": 561,
+    "x": 849,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "65EB0B51-083A-49E8-86AE-482F5D352940"
+    },
+    {
+      "class": "rectangle",
+      "id": "24737E12-8942-4533-8A09-9280F0D04595"
+    },
+    {
+      "class": "group",
+      "id": "AA6F7D6C-4FDE-4FB3-BE57-AA9B588B8B98"
+    }
+  ],
+  "name": "Right Part",
+  "nameIsFixed": true,
+  "resizingConstraint": 28,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0D7F2E9-6673-48D9-8396-D7F2363E73E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

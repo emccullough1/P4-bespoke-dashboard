@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4873E4B-D3BF-421C-BB9F-9CAC17498EF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A0C5ACA-93D7-4A6C-82D4-AA540363D1A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32E448E4-F0EF-4B97-8906-61B1A37C948C",
+    "height": 100,
+    "width": 375,
+    "x": 0,
+    "y": 115
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "40AED72B-EDFC-4B69-A829-9335C7198CF4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5b24a0d621662054c8984e7a9bc11da86215c6e9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A08AB98-A7AB-4351-900E-4062889A7628_stringValue",
+      "value": "Christine Davidson"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37B8AEC8-942C-4BEC-8B47-D5CB83042305",
+      "overrideName": "212E4DBE-747B-4E04-82EA-D3037758E934_stringValue",
+      "value": "3 mutual friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF5E8676-28A5-4970-A221-8064064CEAAF",
+      "overrideName": "562A5377-0CF1-4E27-932E-DC6B69048A59/7EF1F5A0-860A-490E-A662-D7540B7E4633_symbolID",
+      "value": "01F97B0A-08C8-447F-9F18-0A8C73DD0DB9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "731DB9FA-06DB-479F-8D8C-3D80CFA8951C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5DB75AD-C23B-46AD-A96F-0B642BA1E3EA",
+  "verticalSpacing": 0
+}

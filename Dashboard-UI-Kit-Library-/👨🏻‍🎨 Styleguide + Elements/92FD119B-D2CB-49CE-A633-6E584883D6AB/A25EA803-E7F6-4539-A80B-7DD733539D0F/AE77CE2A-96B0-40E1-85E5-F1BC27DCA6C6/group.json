@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE77CE2A-96B0-40E1-85E5-F1BC27DCA6C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B391B38F-CEE2-48BA-A814-1F9577B245BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA534058-62E2-41C1-81D6-CCE6C4E00512",
+    "height": 404,
+    "width": 825,
+    "x": 100,
+    "y": 116
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A13B6EB3-A7CE-413E-942D-2D1B052C5282"
+    },
+    {
+      "class": "group",
+      "id": "20B81507-1B63-4D7A-BBE9-FFDA6CF7505C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6E5B9B3-508E-43B5-8B73-D1EFD687A7C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E28AF2CF-E770-4531-88C7-25E017F66C85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EB4A027-37A4-4F67-BF5C-6F45FB171E18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F64EC6E3-5282-4770-837A-2F5E29513421"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B8E5A7D-E59E-4684-8FA4-0A013517C38D"
+    }
+  ],
+  "name": "Profitable Clients",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "041B0492-6219-43C0-82DB-9F3AD9F7C3F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

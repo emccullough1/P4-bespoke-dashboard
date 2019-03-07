@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD32D9A4-FD97-4735-A990-085A222C0CD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46467FA2-87BC-4481-97D2-5D37349FFFEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "972A3443-8349-4833-83DB-E7FEE753BEA8",
+    "height": 100,
+    "width": 375,
+    "x": 390,
+    "y": 115
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Person",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "40AED72B-EDFC-4B69-A829-9335C7198CF4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/369d78441966c25c54750b2b3ca7a471b8a89b03.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A08AB98-A7AB-4351-900E-4062889A7628_stringValue",
+      "value": "Katie Pittman"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAE1D687-7B19-4C7F-9CF9-1825540DB4BE",
+      "overrideName": "212E4DBE-747B-4E04-82EA-D3037758E934_stringValue",
+      "value": "26 mutual friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13186D96-AFFC-4DBB-8971-E589A0C746B5",
+      "overrideName": "562A5377-0CF1-4E27-932E-DC6B69048A59/7EF1F5A0-860A-490E-A662-D7540B7E4633_symbolID",
+      "value": "0F4920FF-91D2-4486-B665-679F962A40F9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8AA2A4A1-1790-495D-99E4-8F3314C0D68D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5DB75AD-C23B-46AD-A96F-0B642BA1E3EA",
+  "verticalSpacing": 0
+}

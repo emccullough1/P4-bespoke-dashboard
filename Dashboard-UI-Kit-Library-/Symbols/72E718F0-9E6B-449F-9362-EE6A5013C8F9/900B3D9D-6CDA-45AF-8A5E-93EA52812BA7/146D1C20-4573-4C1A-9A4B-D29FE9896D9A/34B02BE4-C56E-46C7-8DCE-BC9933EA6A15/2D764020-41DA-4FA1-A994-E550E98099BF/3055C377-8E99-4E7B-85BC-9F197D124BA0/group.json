@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3055C377-8E99-4E7B-85BC-9F197D124BA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "293C3FFC-D79A-4F75-83A7-9A80EEA61F3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99013F58-5CE0-41EF-AC23-4116206598CC",
+    "height": 73,
+    "width": 23,
+    "x": 94.50000000000003,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "39A8F025-DD8B-4841-A508-DF21639AFF23"
+    },
+    {
+      "class": "text",
+      "id": "FA4F7899-8E27-4C8A-A16E-0B2387DB8935"
+    }
+  ],
+  "name": "Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A2080D2-14A2-4F2A-B1DA-446B27867B0D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "384F94AF-0901-4418-A38B-F78F8F861667",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBB9B822-A679-4BF0-A079-BC190EA570C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52293D03-2635-4593-AD30-63A84BA03CE2",
+    "height": 404,
+    "width": 540,
+    "x": 955,
+    "y": 116
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "600725BA-B010-40F6-867E-873A0006F2C5"
+    },
+    {
+      "class": "group",
+      "id": "CF021B1C-16BA-494F-8CE9-647FE218920B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD1C5D09-0DDC-4EEA-AED9-8677D94D637A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68C863C9-88ED-429D-B02A-63FF061588CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F9CE034-5E6E-42FA-8A59-DBE6A515466B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45C6B9DC-4E7C-405A-8B67-57F1A04716E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CF0F314-4553-4160-A168-C2449EDF94D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B57DA48-3588-4DE7-AD98-EF036908E2CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BA67D0A-4FFE-4AFB-9C98-FABB80585A1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEE00C07-AADC-4474-A915-CDA5B5734548"
+    }
+  ],
+  "name": "Invoices",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7823374-BF35-431C-81FB-226F319C542E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

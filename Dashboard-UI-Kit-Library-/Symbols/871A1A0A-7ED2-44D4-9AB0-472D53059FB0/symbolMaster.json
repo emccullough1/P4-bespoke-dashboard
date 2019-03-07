@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6240C847-4E84-4259-890B-FD916D482214",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 495,
+  "clippingMaskMode": 0,
+  "do_objectID": "871A1A0A-7ED2-44D4-9AB0-472D53059FB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0039BBF-9AF0-467C-9581-00E53AC65983",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1AC2CFAC-2D10-40C7-B116-9967F63B62F4",
+    "height": 60,
+    "width": 60,
+    "x": 266,
+    "y": 238
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0E9C70C9-0E46-40D1-BD6B-614B430E7553",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "11BB005F-7AEC-480C-B7FA-8B8C93B0B2D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EF1F5A0-860A-490E-A662-D7540B7E4633"
+    }
+  ],
+  "name": "Avatar/Person (Circle)/60px",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CEFE78CA-C683-411A-A5BB-736D65FCDEC8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A35A3DC5-7C79-428A-9EDE-A4F3B7008FFF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69048A61-F44F-4028-AD5F-E70A4AA63982",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DDCCD341-B758-4E59-A867-AF301444A95C",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "64358DB6-90FE-4367-B841-0B128B2840AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9CBD905-7917-4CA8-BF39-F6FE97DAD5E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5711EA6-C862-45CB-A788-62F9B27C96A1",
+    "height": 63,
+    "width": 150,
+    "x": 0,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D46BCD86-64EB-44C7-87B0-C7D573FE9E00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "762EDFA1-A8F3-4EFA-92F3-90D6973764F0"
+    }
+  ],
+  "name": "Input w/ Label",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED4B7A9F-0A16-4D05-A7EA-486F82365194",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

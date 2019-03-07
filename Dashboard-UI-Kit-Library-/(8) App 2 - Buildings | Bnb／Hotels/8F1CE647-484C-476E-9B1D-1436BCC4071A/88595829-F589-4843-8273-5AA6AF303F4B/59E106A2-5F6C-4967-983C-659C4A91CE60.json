@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "59E106A2-5F6C-4967-983C-659C4A91CE60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B24247DB-526B-4623-9E8F-6C816AE2F4FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "160E04D6-E291-46DA-9E29-C8EA3CFDCE70",
+    "height": 145,
+    "width": 380,
+    "x": 0,
+    "y": 952
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widget/Buildings/Building List Item",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3994D1F8-C7D1-4B3D-8CA2-3F4BBE22A9F1",
+      "overrideName": "0C6F7F6F-8A2F-4002-8E4C-59BF164FB5FA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c36d56c7947a48dbf56a26ee5a6f0f0f606be213.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43718D46-6D99-46CD-8082-8B63A99E6C48",
+      "overrideName": "71747601-6939-47F4-A92D-C70B6FC33052_stringValue",
+      "value": "Chrysler Building"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59C98ECB-3CA4-4987-BC11-D9DFD01E51E6",
+      "overrideName": "6C7843A7-543F-42C5-B044-56E23F3806A6_stringValue",
+      "value": "7202 Snake Hill Court \nBethel Park, PA 15102"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C416795E-0525-4836-8FA1-7134B03F93F0",
+      "overrideName": "7CFCEAC2-C2D9-455A-9D0A-D411D26F32DF_stringValue",
+      "value": "£85/sqm"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34B531DB-9D12-45A5-BB8C-3DB816376BA8",
+      "overrideName": "ECFC55C2-0F0B-47D7-85A2-70AD1E71B8C9_stringValue",
+      "value": "For Rent"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99463938-3CA9-4221-9BC5-92FB3AF9FDA3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D52A3023-C682-469D-808E-70264928F97E",
+  "verticalSpacing": 0
+}

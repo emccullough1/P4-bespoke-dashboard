@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "36764F27-5A89-4717-B402-9E22073C8AFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1587F960-A409-4726-9208-7C3389220FEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C9D6CF7-68F5-4F3D-9448-AD070ADBEE8E",
+    "height": 49,
+    "width": 153,
+    "x": 30,
+    "y": 624
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "269FA394-D0C3-411F-8655-7464377D466C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABD0236A-6C2C-497A-BE33-2E6DB9246BF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25F979F1-14AD-47CD-8ACE-7C219962C12A"
+    }
+  ],
+  "name": "Labels",
+  "nameIsFixed": true,
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D8C8F4D-9632-46D6-8C5D-1CE7731D3EB7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

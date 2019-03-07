@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "622A4429-9599-4089-8A7F-EB532D49FEC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDC57173-4454-4FF6-8557-738064C03272",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D6800E2-7558-425D-AF72-276ACA31FA56",
+    "height": 150,
+    "width": 445,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D0157D4E-A50E-4F20-AA22-1CB0B4C0AF9C"
+    },
+    {
+      "class": "rectangle",
+      "id": "CBCBA36A-CCC0-4CC1-AC30-CA66DC776017"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D66B148-18BA-4626-B160-ADEB9ED378AD"
+    }
+  ],
+  "name": "Video Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2346EB51-49D2-42CD-8C30-158DEF4F9313",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8161CD54-C1A1-4BD2-BE7A-2FCE5B19086B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20A69F2C-D3F6-4A42-8D38-0065D0307C7E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F60E5B8-4F39-4005-ADC0-D89B71F09680",
+    "height": 261,
+    "width": 32,
+    "x": 455,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "510B73F7-44A3-4606-8E3A-37FA3DC4EAA6"
+    },
+    {
+      "class": "rectangle",
+      "id": "2229AB48-7B82-42D7-B952-AD1045CDCC13"
+    }
+  ],
+  "name": "Bar Chart",
+  "nameIsFixed": false,
+  "resizingConstraint": 60,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5A5B647-8E91-4A6E-8ED7-C36F89FB68D1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

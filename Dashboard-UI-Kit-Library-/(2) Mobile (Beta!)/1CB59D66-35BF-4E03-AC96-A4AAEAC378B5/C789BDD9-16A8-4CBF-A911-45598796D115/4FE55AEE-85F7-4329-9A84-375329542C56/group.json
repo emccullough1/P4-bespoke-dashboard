@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4FE55AEE-85F7-4329-9A84-375329542C56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAF27221-4B2B-460E-B220-061F35D1DCED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0F0A687-8DC1-4728-8B83-AE5B30FC9426",
+    "height": 26,
+    "width": 26,
+    "x": 30,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "463E299D-C987-40F3-8B89-95BCB985CD42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AC07F0B-C16E-4F1E-8388-AAB11EEA72AE"
+    }
+  ],
+  "name": "Dot",
+  "nameIsFixed": true,
+  "resizingConstraint": 33,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6BC8A371-2F2C-4CA2-8E99-3A3095C7CD52",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "55824936-C651-43E2-9C70-75287BFB1472",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 454,
+    "width": 350,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D9CE8C38-FBC0-43F9-9358-741C13A1557A"
+    },
+    {
+      "class": "rectangle",
+      "id": "C7BC6E33-0119-4837-BCDE-8952564AF0D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B081857-B6C7-4885-86C4-D5EBED158C68"
+    },
+    {
+      "class": "group",
+      "id": "FE7579AF-359D-41C6-A31C-5CA419EE9983"
+    },
+    {
+      "class": "group",
+      "id": "149DA909-8D8C-41C5-8F0E-DC33E153BAF3"
+    },
+    {
+      "class": "group",
+      "id": "2807AF92-C814-4470-AE57-6B58CCC46A0B"
+    },
+    {
+      "class": "text",
+      "id": "6B47B434-9819-495B-B574-55C80D80A6F2"
+    },
+    {
+      "class": "text",
+      "id": "8D0B56A2-D801-4D4E-95DF-B4DA681DF18A"
+    },
+    {
+      "class": "rectangle",
+      "id": "C17D27FF-BAE6-4F5B-AE83-D66052FE15A9"
+    }
+  ],
+  "name": "Widget/Tutorials/Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
