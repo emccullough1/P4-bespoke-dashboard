@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "DD19076D-4015-4299-AC8A-E1DC46B52247",
+  "do_objectID": "49611A3F-FEDB-4EF9-94E2-53DF86F8C0CF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,30 +13,33 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 71,
-    "width": 219,
-    "x": 186,
-    "y": 143
+    "constrainProportions": true,
+    "height": 540,
+    "width": 850,
+    "x": 1056,
+    "y": 76
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/fd6d2bbbda856775d59b6e2dabb513655fe8225e.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Header",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -43,7 +47,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "062E7F8E-CB73-4229-96CF-AA389B9DEB88",
-  "verticalSpacing": 0
+  }
 }
