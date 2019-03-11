@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D6B0699C-2010-422A-A6FC-70B32D1514A1",
+  "do_objectID": "6EFD2F2D-D9F1-4303-A780-4752722D787E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 34,
-    "width": 47,
-    "x": 2816,
-    "y": 443
+    "height": 139,
+    "width": 445,
+    "x": 2789,
+    "y": 923
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +28,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "notification orange",
+  "name": "instagram comment",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF3F309C-B291-437C-A3E8-42F041792E13",
+      "overrideName": "9B0CC68E-FDCD-4BB7-8C98-D587EB7CCD70/DB476233-D484-49EE-8D73-E372E5F352D8_stringValue",
+      "value": "commented"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "30875CC6-BB9C-455F-80B5-50AD74DF7985",
+  "symbolID": "CF6AE31A-B02E-49F3-A282-C593242A0ABE",
   "verticalSpacing": 0
 }

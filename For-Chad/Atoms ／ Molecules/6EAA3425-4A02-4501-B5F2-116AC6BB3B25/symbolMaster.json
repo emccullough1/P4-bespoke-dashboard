@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 16232,
+  "changeIdentifier": 190,
   "clippingMaskMode": 0,
-  "do_objectID": "ABF6C8AE-0159-4DD1-8DD2-3F9D49958F1D",
+  "do_objectID": "6EAA3425-4A02-4501-B5F2-116AC6BB3B25",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1200,
-    "width": 445,
-    "x": 6492,
-    "y": -43
+    "height": 80,
+    "width": 80,
+    "x": 7809,
+    "y": 58
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,26 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "BD6D632C-A464-4582-9EC9-BA0C1CF84C22"
-    },
-    {
       "class": "rectangle",
-      "id": "FD8303BF-511B-4C28-8F65-840045494B4D"
-    },
-    {
-      "class": "text",
-      "id": "B2F8844B-7E69-46D3-B1CF-DEE1BC9CC34F"
-    },
-    {
-      "class": "rectangle",
-      "id": "68325B84-3840-4E24-94BA-E25A3EE73C1C"
+      "id": "34197499-9A43-49FB-98D1-C378B0DED4BC"
     }
   ],
-  "name": "Sidebar/Activity",
+  "name": "photo",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -79,7 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "49056A6B-E269-4F78-A6E4-C6AA78A52A48",
+  "symbolID": "4AF4D136-5D04-465A-83DD-2148EC5CC6CB",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

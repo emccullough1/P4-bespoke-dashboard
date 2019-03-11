@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BD6D632C-A464-4582-9EC9-BA0C1CF84C22",
+  "do_objectID": "18316493-EB8C-4F8A-9382-63811B3BE8A9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B59FF290-4109-465A-A9E3-04ECDEF2EDFB",
+    "do_objectID": "82185A71-90DC-4EF9-B801-8ECED665A44A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6FCCF4D6-3B92-4846-A36D-2FE2F23C909E",
-    "height": 1199,
+    "do_objectID": "7417F84A-C7AF-4085-A6CE-2B8CDA467114",
+    "height": 137,
     "width": 445,
     "x": 0,
-    "y": 0
+    "y": 1
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,34 +33,26 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "3534B1B8-F199-45B9-B853-4565D90E9380"
+      "id": "D617E990-5C2E-4BFC-AF3C-3C8EBACF8CB9"
+    },
+    {
+      "class": "text",
+      "id": "26336FEA-0489-459F-945A-FD67A7CFFAA4"
     },
     {
       "class": "symbolInstance",
-      "id": "75FD5CFB-389D-48C1-A373-D30105643B2F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "11DAA088-0BB5-4841-8E64-7D3381BED1CB"
-    },
-    {
-      "class": "group",
-      "id": "D905E0D0-5165-4786-955E-3FA8759C25DC"
-    },
-    {
-      "class": "group",
-      "id": "6E010B6D-0EFF-4AC0-9112-1CA10395FFEF"
+      "id": "0AA96613-D3DE-43AF-BEE0-9A9E1D3246B9"
     }
   ],
-  "name": "Activity",
+  "name": "Activity Item",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "992652CE-211D-4673-90DD-D6E15799BEFA",
+    "do_objectID": "067D50C8-AC78-4C82-94A0-A8E657432F84",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

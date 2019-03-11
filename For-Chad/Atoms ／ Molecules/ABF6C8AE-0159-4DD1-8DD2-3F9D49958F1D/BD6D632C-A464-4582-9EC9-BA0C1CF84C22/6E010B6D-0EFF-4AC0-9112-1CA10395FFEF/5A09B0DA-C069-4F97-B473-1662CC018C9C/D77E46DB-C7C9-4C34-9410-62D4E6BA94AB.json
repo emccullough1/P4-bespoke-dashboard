@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "AvenirNext-Regular",
               "size": 14
             }
           },
@@ -28,39 +28,11 @@
             "minimumLineHeight": 22
           }
         },
-        "length": 13,
+        "length": 12,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2588235294117647,
-            "green": 0.2470588235294118,
-            "red": 0.2431372549019608
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Regular",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          }
-        },
-        "length": 5,
-        "location": 13
       }
     ],
-    "string": "Anthony Cole (You)"
+    "string": "Anthony Cole"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -82,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "BA0B693D-609E-4B3B-8C95-93F54C5E38C9",
     "height": 22,
-    "width": 144.9999999999999,
+    "width": 319.9999999999991,
     "x": 54,
     "y": 8
   },
-  "glyphBounds": "{{0, 5}, {124, 14}}",
+  "glyphBounds": "{{0, 4}, {87, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Anthony Cole (You)",
+  "name": "Anthony Cole",
   "nameIsFixed": false,
   "resizingConstraint": 11,
   "resizingType": 0,
@@ -122,7 +94,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "AvenirNext-Regular",
             "size": 14
           }
         },
