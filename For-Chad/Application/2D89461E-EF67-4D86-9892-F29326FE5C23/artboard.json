@@ -27,7 +27,7 @@
     "x": -125,
     "y": -130
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -48,10 +48,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "37908401-3347-47F7-B79C-90450CA424AC"
-    },
-    {
-      "class": "symbolInstance",
       "id": "A5687473-8B0D-448B-B07F-8AC730934453"
     },
     {
@@ -67,12 +63,8 @@
       "id": "FCA4F3A2-B58B-4311-B602-60B03A8A31C2"
     },
     {
-      "class": "rectangle",
-      "id": "A40CC662-38D4-41CB-910D-558159EBF8E8"
-    },
-    {
-      "class": "bitmap",
-      "id": "85FD2BC5-0D32-4659-A824-71E3A071FAC2"
+      "class": "symbolInstance",
+      "id": "A2A9D564-3742-4830-A975-9D06D2AC83EC"
     },
     {
       "class": "symbolInstance",
@@ -80,27 +72,23 @@
     },
     {
       "class": "symbolInstance",
-      "id": "9E03A1FD-F449-4598-833A-305DC1254E3D"
+      "id": "698652C9-317F-4521-B5B9-EFEF510E9C03"
     },
     {
-      "class": "bitmap",
-      "id": "49611A3F-FEDB-4EF9-94E2-53DF86F8C0CF"
+      "class": "symbolInstance",
+      "id": "FC20B9F1-7388-4599-A61C-1F7871D2506B"
     },
     {
-      "class": "bitmap",
-      "id": "EEF87A81-E62E-4AD2-9274-F2F99F032E88"
+      "class": "symbolInstance",
+      "id": "3485417B-7FB9-4B8A-889D-BD0A2F88F8CC"
     },
     {
-      "class": "bitmap",
-      "id": "EEDC49FC-CCCF-4CA9-A47B-38825A5CBFF7"
+      "class": "symbolInstance",
+      "id": "B40E3CC8-6485-43DB-8914-AA191811A593"
     },
     {
-      "class": "bitmap",
-      "id": "569630C6-8777-49BE-B79B-7DA62442A111"
-    },
-    {
-      "class": "bitmap",
-      "id": "D75A6569-6F72-4BEC-9F64-B35190BC52F8"
+      "class": "symbolInstance",
+      "id": "D6B0699C-2010-422A-A6FC-70B32D1514A1"
     }
   ],
   "name": "Desktop",

@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 424,
     "width": 400,
-    "x": 574,
-    "y": 72
+    "x": 770,
+    "y": 71
   },
   "hasClippingMask": false,
   "image": {
@@ -43,6 +43,30 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": false,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 1
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

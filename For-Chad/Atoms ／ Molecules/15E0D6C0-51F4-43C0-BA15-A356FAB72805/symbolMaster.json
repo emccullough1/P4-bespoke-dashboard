@@ -1,0 +1,129 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
+  "clippingMaskMode": 0,
+  "do_objectID": "15E0D6C0-51F4-43C0-BA15-A356FAB72805",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 384,
+    "width": 628,
+    "x": 4142,
+    "y": -3
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A40CC662-38D4-41CB-910D-558159EBF8E8"
+    },
+    {
+      "class": "bitmap",
+      "id": "85FD2BC5-0D32-4659-A824-71E3A071FAC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E03A1FD-F449-4598-833A-305DC1254E3D"
+    },
+    {
+      "class": "bitmap",
+      "id": "EEF87A81-E62E-4AD2-9274-F2F99F032E88"
+    },
+    {
+      "class": "bitmap",
+      "id": "EEDC49FC-CCCF-4CA9-A47B-38825A5CBFF7"
+    },
+    {
+      "class": "bitmap",
+      "id": "569630C6-8777-49BE-B79B-7DA62442A111"
+    },
+    {
+      "class": "bitmap",
+      "id": "D75A6569-6F72-4BEC-9F64-B35190BC52F8"
+    },
+    {
+      "class": "text",
+      "id": "825CBB5D-8DA8-4152-BE17-AA42F629488D"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE6036D8-B346-44E8-8AB9-72FAE70BE015"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00E98060-213F-4B90-A03E-0EBD983AD1EE"
+    },
+    {
+      "class": "text",
+      "id": "F811C2ED-0A1D-43E2-9884-FB70E83B95A2"
+    },
+    {
+      "class": "text",
+      "id": "7D6D1743-B0B8-4FF8-8E9C-271D2DEA9C02"
+    },
+    {
+      "class": "text",
+      "id": "865D02C4-3601-4BAB-A716-6E6F5AD056A7"
+    },
+    {
+      "class": "oval",
+      "id": "2BB80A57-1B90-4D9A-B8E9-C55EADDEB261"
+    }
+  ],
+  "name": "weather widget",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7D05E436-7F28-463A-A463-E11F1C04D101",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
