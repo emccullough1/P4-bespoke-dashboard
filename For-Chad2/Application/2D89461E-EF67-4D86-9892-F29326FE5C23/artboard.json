@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1688,
-    "width": 3330,
-    "x": -125,
-    "y": -130
+    "height": 1600,
+    "width": 2362,
+    "x": 328,
+    "y": -384
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -51,6 +51,10 @@
       "id": "A5687473-8B0D-448B-B07F-8AC730934453"
     },
     {
+      "class": "bitmap",
+      "id": "9E605686-BF1D-4EE8-8D7A-AA9737AC8C5E"
+    },
+    {
       "class": "text",
       "id": "0286C111-03B7-4E40-A8C9-CA4529D1C9D0"
     },
@@ -61,6 +65,10 @@
     {
       "class": "bitmap",
       "id": "FCA4F3A2-B58B-4311-B602-60B03A8A31C2"
+    },
+    {
+      "class": "rectangle",
+      "id": "A765F160-DB36-4E87-A29C-1C9B3BA6E90D"
     },
     {
       "class": "symbolInstance",
@@ -81,6 +89,10 @@
     {
       "class": "symbolInstance",
       "id": "DDC9941C-632D-4122-8FD8-7341ECF555B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60AE9B37-C12E-40EE-9FE9-36B271ECE308"
     }
   ],
   "name": "Desktop",
