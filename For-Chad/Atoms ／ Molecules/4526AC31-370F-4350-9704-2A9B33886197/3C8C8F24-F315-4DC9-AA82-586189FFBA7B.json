@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "LucidaGrande",
-              "size": 60
+              "size": 40
             }
           },
-          "kerning": 2,
+          "kerning": 1.333333,
           "paragraphStyle": {
             "_class": "paragraphStyle"
           },
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 71,
+    "height": 47,
     "width": 219,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{5, 11}, {211, 48}}",
+  "glyphBounds": "{{3, 8}, {141, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -88,10 +88,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "LucidaGrande",
-            "size": 60
+            "size": 40
           }
         },
-        "kerning": 2,
+        "kerning": 1.333333,
         "paragraphStyle": {
           "_class": "paragraphStyle"
         },
@@ -101,5 +101,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

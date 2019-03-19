@@ -16,22 +16,24 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
-              "size": 16
+              "name": "Montserrat-Medium",
+              "size": 24
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 44,
+            "minimumLineHeight": 44
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 210,
+        "length": 159,
         "location": 0
       }
     ],
-    "string": "Rescue workers at the site where Ethiopia Airlines Flight 302 crashed on Sunday. More than 150 people were killed, including many United Nations staff members and employees of nonprofit and humanitarian groups."
+    "string": "Rescue workers at the site where Ethiopia Airlines Flight 302 crashed on Sunday. More than 150 people were killed, including many United Nations staff members."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 138,
-    "width": 325,
+    "height": 185,
+    "width": 540,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {324, 127}}",
+  "glyphBounds": "{{-1, 12}, {536, 152}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -88,14 +90,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
-            "size": 16
+            "name": "Montserrat-Medium",
+            "size": 24
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 44,
+          "minimumLineHeight": 44
         },
         "textStyleVerticalAlignmentKey": 0
       },

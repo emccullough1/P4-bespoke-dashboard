@@ -17,15 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-DemiBold",
-              "size": 16
+              "size": 28
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 31,
+            "minimumLineHeight": 31
           }
         },
         "length": 72,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 307,
+    "height": 69,
+    "width": 540,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {307, 39}}",
+  "glyphBounds": "{{1, 2}, {536, 60}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,15 +91,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-DemiBold",
-            "size": 16
+            "size": 28
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 31,
+          "minimumLineHeight": 31
         }
       },
       "verticalAlignment": 0

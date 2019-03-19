@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 371,
+  "changeIdentifier": 373,
   "clippingMaskMode": 0,
   "do_objectID": "6EAA3425-4A02-4501-B5F2-116AC6BB3B25",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 455
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,8 @@
       "id": "34197499-9A43-49FB-98D1-C378B0DED4BC"
     }
   ],
-  "name": "photo",
-  "nameIsFixed": false,
+  "name": "building/photo",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

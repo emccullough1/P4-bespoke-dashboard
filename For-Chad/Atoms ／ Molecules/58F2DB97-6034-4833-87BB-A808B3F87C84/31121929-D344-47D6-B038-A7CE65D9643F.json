@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-Bold",
-              "size": 16
+              "size": 40
             }
           },
-          "kerning": 0.3,
+          "kerning": 0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 35,
-    "x": 12,
-    "y": 6
+    "height": 55,
+    "width": 15,
+    "x": 13,
+    "y": -3
   },
-  "glyphBounds": "{{0, 4}, {10, 13}}",
+  "glyphBounds": "{{1, 10}, {23, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -90,10 +90,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-Bold",
-            "size": 16
+            "size": 40
           }
         },
-        "kerning": 0.3,
+        "kerning": 0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

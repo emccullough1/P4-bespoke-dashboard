@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DB48A546-3EE1-40A1-B495-F3198C294D06",
+  "do_objectID": "30B8AD28-904C-4065-A109-D0C401FF7FD9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,34 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 9,
-    "width": 9,
-    "x": 30,
-    "y": 48
+    "height": 350,
+    "width": 350,
+    "x": 1377,
+    "y": 268
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "oval",
-      "id": "184454C8-03CE-4E61-925D-5ADA5482D399"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8BCBDF46-2564-4278-870A-AEF2986D2EA9"
-    }
+  "name": "building/ photo",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Dot",
-  "nameIsFixed": true,
-  "resizingConstraint": 41,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -50,5 +43,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "5C5427B3-2B26-4BD8-BAF0-36340B6CF5F1",
+  "verticalSpacing": 0
 }

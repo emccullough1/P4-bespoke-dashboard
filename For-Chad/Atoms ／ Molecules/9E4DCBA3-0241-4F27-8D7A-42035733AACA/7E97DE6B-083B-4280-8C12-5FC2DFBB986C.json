@@ -121,14 +121,13 @@
         "patternTileScale": 1
       }
     ],
-    "miterLimit": 10,
-    "shadows": [
+    "innerShadows": [
       {
-        "_class": "shadow",
+        "_class": "innerShadow",
         "blurRadius": 3,
         "color": {
           "_class": "color",
-          "alpha": 0.04,
+          "alpha": 0.5,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -138,9 +137,32 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.7964221014492754,
+          "blue": 0.4947916666666667,
+          "green": 0.4947916666666667,
+          "red": 0.4947916666666667
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 2,
+        "offsetY": 5,
         "spread": 0
       }
     ],
