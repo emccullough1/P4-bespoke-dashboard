@@ -9,37 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2000425170068027,
-            "green": 0.2000425170068027,
-            "red": 0.2000425170068027
+            "blue": 0.8470588235294118,
+            "green": 0.3960784313725493,
+            "red": 0.08627450980392158
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
-              "size": 160
+              "name": "AvenirNext-DemiBold",
+              "size": 20
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": " 2:00"
+    "string": "+ photo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0286C111-03B7-4E40-A8C9-CA4529D1C9D0",
+  "do_objectID": "2D2D7949-ABD9-4546-BF5D-701C5AA8B996",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "63504DBA-C934-4CC7-8B6A-A4D31C50B1B1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 258,
-    "width": 476,
-    "x": 98,
-    "y": 105
+    "do_objectID": "D202764F-44A3-41E3-B0D2-481A334C9474",
+    "height": 32,
+    "width": 161,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{102, 43}, {310, 120}}",
+  "glyphBounds": "{{1, 4}, {72, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2:00",
+  "name": "+ photo copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,29 +74,31 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5DB50573-3AED-48B3-B30C-584756ECC696",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "8724349D-E00B-497F-8A67-92E05448A7A2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2000425170068027,
-          "green": 0.2000425170068027,
-          "red": 0.2000425170068027
+          "blue": 0.8470588235294118,
+          "green": 0.3960784313725493,
+          "red": 0.08627450980392158
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
-            "size": 160
+            "name": "AvenirNext-DemiBold",
+            "size": 20
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
