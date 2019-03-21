@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 229,
+  "changeIdentifier": 7859,
   "clippingMaskMode": 0,
   "do_objectID": "15E0D6C0-51F4-43C0-BA15-A356FAB72805",
   "exportOptions": {
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 384,
-    "width": 628,
+    "height": 405,
+    "width": 679,
     "x": 5289,
-    "y": -209
+    "y": -230
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "A40CC662-38D4-41CB-910D-558159EBF8E8"
-    },
-    {
-      "class": "bitmap",
-      "id": "85FD2BC5-0D32-4659-A824-71E3A071FAC2"
     },
     {
       "class": "symbolInstance",
@@ -73,6 +69,10 @@
       "id": "569630C6-8777-49BE-B79B-7DA62442A111"
     },
     {
+      "class": "rectangle",
+      "id": "C4268752-4E45-410A-A5BC-4410C3D1B0DE"
+    },
+    {
       "class": "bitmap",
       "id": "D75A6569-6F72-4BEC-9F64-B35190BC52F8"
     },
@@ -81,12 +81,8 @@
       "id": "825CBB5D-8DA8-4152-BE17-AA42F629488D"
     },
     {
-      "class": "shapePath",
-      "id": "EE6036D8-B346-44E8-8AB9-72FAE70BE015"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "00E98060-213F-4B90-A03E-0EBD983AD1EE"
+      "class": "bitmap",
+      "id": "85FD2BC5-0D32-4659-A824-71E3A071FAC2"
     },
     {
       "class": "text",
@@ -103,6 +99,14 @@
     {
       "class": "oval",
       "id": "2BB80A57-1B90-4D9A-B8E9-C55EADDEB261"
+    },
+    {
+      "class": "rectangle",
+      "id": "99970712-A7FB-4AD9-8D34-C501962B8198"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00E98060-213F-4B90-A03E-0EBD983AD1EE"
     }
   ],
   "name": "weather widget",

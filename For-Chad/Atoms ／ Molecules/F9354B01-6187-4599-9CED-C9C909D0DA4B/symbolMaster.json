@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4720,
+  "changeIdentifier": 4995,
   "clippingMaskMode": 0,
   "do_objectID": "F9354B01-6187-4599-9CED-C9C909D0DA4B",
   "exportOptions": {
@@ -46,11 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "F9E5D7DC-F959-41D3-9F03-30B56D620075"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4FE705F-22B5-4E36-B647-82342984C6F3"
     }
   ],
   "name": "Dropdown/Item/Default (Text Item)",

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-Medium",
-              "size": 12
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
+    "height": 25,
     "width": 101,
-    "x": 167,
-    "y": 93
+    "x": 153,
+    "y": 43
   },
-  "glyphBounds": "{{80, 3}, {21, 9}}",
+  "glyphBounds": "{{70, 5}, {31, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,7 +89,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-Medium",
-            "size": 12
+            "size": 18
           }
         },
         "paragraphStyle": {
