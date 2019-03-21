@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.183328018707483,
-            "green": 0.1824138742013215,
-            "red": 0.1821091593659343
+            "blue": 0.8627450980392157,
+            "green": 0.8549019607843137,
+            "red": 0.8431372549019608
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
-              "size": 40
+              "name": "Helvetica",
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -27,20 +27,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 73,
         "location": 0
       }
     ],
-    "string": "icons"
+    "string": "What did you not understand as a kid, but you now understand as an adult?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3382CD2D-CEA3-4D3B-A63C-D7946E702D1D",
+  "do_objectID": "BFE5AB56-38A0-4FED-AD7B-5AF6C0AC5143",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "39EC102B-9DCB-4E2E-A07F-3DEBA797C0DD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D8E02502-11D9-4704-9556-1E3ADA7C1366",
-    "height": 55,
-    "width": 96,
-    "x": 4042,
-    "y": -153
+    "height": 48,
+    "width": 409,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{3, 12}, {91, 29}}",
+  "glyphBounds": "{{0, 4}, {406, 40}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,34 +64,32 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "icons",
+  "name": "comment",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7C6CE3EF-7148-4E19-9DED-EE3B5C86E158",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "50FBFF7F-E5AB-4C6A-8637-F98A0CC949C9",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.183328018707483,
-          "green": 0.1824138742013215,
-          "red": 0.1821091593659343
+          "blue": 0.8627450980392157,
+          "green": 0.8549019607843137,
+          "red": 0.8431372549019608
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
-            "size": 40
+            "name": "Helvetica",
+            "size": 20
           }
         },
         "paragraphStyle": {
@@ -107,5 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

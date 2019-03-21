@@ -1,11 +1,10 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6104B391-5569-4BA2-806B-5B3DA337954E",
+  "do_objectID": "0FEFF5F0-BB7C-4B4F-A5C4-9882E483BD90",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C78EF976-155C-4E43-8EAC-AAA794CD9672",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +15,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E1CDF86E-CF59-4AD6-B69F-941DA5E7448B",
-    "height": 984,
-    "width": 540,
-    "x": 739,
-    "y": 99
+    "height": 48,
+    "width": 409,
+    "x": 1,
+    "y": 29
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "background white copy",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "text",
+      "id": "BFE5AB56-38A0-4FED-AD7B-5AF6C0AC5143"
+    }
   ],
+  "name": "reddit/ text",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5E22B12B-3D30-4D68-B66E-D9B074B3DAC1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "4DDDC243-49D9-46FC-BD49-2918298E5E8F",
-  "verticalSpacing": 0
+  }
 }
