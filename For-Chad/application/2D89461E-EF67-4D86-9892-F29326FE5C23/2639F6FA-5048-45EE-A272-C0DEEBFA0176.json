@@ -9,37 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2000425170068027,
-            "green": 0.2000425170068027,
-            "red": 0.2000425170068027
+            "blue": 0.4895036139455782,
+            "green": 0.478574089894858,
+            "red": 0.4749309152112846
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-Regular",
-              "size": 60
+              "size": 20
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
         },
-        "length": 2,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "PM"
+    "string": "The Piano Guys"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "BCB2D08C-CCF5-4D09-858D-964B46B5AF76",
+  "do_objectID": "2639F6FA-5048-45EE-A272-C0DEEBFA0176",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "63DEC489-27F9-45BA-B754-30BE17496724",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 82,
-    "width": 182,
-    "x": 442,
-    "y": 132
+    "do_objectID": "130E14EE-DF79-425B-9651-8BFB323F8DEE",
+    "height": 22,
+    "width": 600,
+    "x": 30,
+    "y": 849
   },
-  "glyphBounds": "{{52, 17}, {78, 43}}",
+  "glyphBounds": "{{229, 1}, {141, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,40 +67,44 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PM",
+  "name": "The Piano Guys",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "0D6E982B-A9D5-4ECF-94AB-034ABF7A8C27",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "63FBE9F7-4BB3-4407-9457-96B2052AC845",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B5274F13-3596-493C-8400-711269C97033",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2000425170068027,
-          "green": 0.2000425170068027,
-          "red": 0.2000425170068027
+          "blue": 0.4895036139455782,
+          "green": 0.478574089894858,
+          "red": 0.4749309152112846
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-Regular",
-            "size": 60
+            "size": 20
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
       },
       "verticalAlignment": 0
     },

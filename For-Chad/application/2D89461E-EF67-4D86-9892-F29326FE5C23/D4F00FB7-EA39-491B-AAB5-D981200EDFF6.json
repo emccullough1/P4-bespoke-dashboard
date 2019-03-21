@@ -9,37 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2000425170068027,
-            "green": 0.2000425170068027,
-            "red": 0.2000425170068027
+            "blue": 0.2588235294117647,
+            "green": 0.2470588235294118,
+            "red": 0.2431372549019608
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
-              "size": 60
+              "name": "AvenirNext-Medium",
+              "size": 24
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
         },
-        "length": 2,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "PM"
+    "string": "A Thousand Years"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "BCB2D08C-CCF5-4D09-858D-964B46B5AF76",
+  "do_objectID": "D4F00FB7-EA39-491B-AAB5-D981200EDFF6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "081BECAF-EF7D-4676-8717-58127F4A44E6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 82,
-    "width": 182,
-    "x": 442,
-    "y": 132
+    "do_objectID": "24FB5CB9-A401-482A-8E09-87AA9966F627",
+    "height": 22,
+    "width": 600,
+    "x": 30,
+    "y": 818
   },
-  "glyphBounds": "{{52, 17}, {78, 43}}",
+  "glyphBounds": "{{202, 0}, {195, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,40 +67,44 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PM",
+  "name": "A Thousand Years",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "0D6E982B-A9D5-4ECF-94AB-034ABF7A8C27",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C858C142-23F0-4FFE-A46A-FDCF73C004B8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "55E33E6B-B0E7-4F77-A7D0-00F4B4A3184E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2000425170068027,
-          "green": 0.2000425170068027,
-          "red": 0.2000425170068027
+          "blue": 0.2588235294117647,
+          "green": 0.2470588235294118,
+          "red": 0.2431372549019608
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
-            "size": 60
+            "name": "AvenirNext-Medium",
+            "size": 24
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
       },
       "verticalAlignment": 0
     },
